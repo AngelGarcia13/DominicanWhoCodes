@@ -1,0 +1,32 @@
+﻿@page "/"
+@inject HttpClient Http
+<div class="row">
+    @if (developers == null)
+    {
+        <p><em>Loading devs info...</em></p>
+    }
+    else
+    {
+        @foreach (var developer in developers){
+            <CardComponent Name="@developer.Name" Initials="@developer.Initials" Image="@developer.Image" Summary="@developer.Summary" Skills="@developer.Skills"/>
+        }
+    }      
+</div>
+
+@code {
+    Developer[] developers;
+
+    protected override async Task OnInitializedAsync()
+    {
+        developers = await Http.GetJsonAsync<Developer[]>("data/developers.json");
+    }
+
+    public class Developer
+    {
+        public string Name { get; set; }
+        public string Initials { get; set; }
+        public string Image { get; set; }
+        public string Summary { get; set; }
+        public string Skills { get; set; }
+    }
+}
