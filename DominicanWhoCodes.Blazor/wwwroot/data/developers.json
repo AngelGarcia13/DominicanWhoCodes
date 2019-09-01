@@ -19,5 +19,12 @@
     "image":"data/devs-pics/luis-pujols.png",
     "summary": "Mobile Developer using Xamarin all the way up.",
     "skills":"Xamarin,Android,iOS"
+  },
+  {
+    "name": "Raymond Coplin",
+    "initials": "RC",
+    "image":"data/devs-pics/raymond-coplin.jpg",
+    "summary": "Angular Expert with 6+ years of experience.",
+    "skills":"Angular,Javascript,C#,Software Architecture"
   }
 ]
