@@ -26,5 +26,12 @@
     "image":"data/devs-pics/dionny-prensa.jpeg",
     "summary": "Software Backend, Mobile & DWH Developer.\nI like to write code and analyze data.\nI love to share with cheerfull people.\nI like Baseball, Basketball, Vitilla: 3 and Videogames.\nFrustrated bass and piano apprentice",
     "skills":"Javascript,React,NodeJS,TSQL,.NET(C#)"
+  },
+  {
+    "name": "Raymond Coplin",
+    "initials": "RC",
+    "image":"data/devs-pics/raymond-coplin.jpg",
+    "summary": "Angular Expert with 6+ years of experience.",
+    "skills":"Angular,Javascript,C#,Software Architecture"
   }
 ]
