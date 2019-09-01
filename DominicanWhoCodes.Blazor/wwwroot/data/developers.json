@@ -2,36 +2,43 @@
   {
     "name": "Angel Garcia",
     "initials": "AG",
-    "image":"data/devs-pics/angel-garcia.jpg",
+    "image": "data/devs-pics/angel-garcia.jpg",
     "summary": "Backend and Mobile developer who loves basketball.",
-    "skills":"C#,Xamarin.Forms,Azure"
+    "skills": "C#,Xamarin.Forms,Azure"
   },
   {
     "name": "Manuel Hernandez",
     "initials": "MH",
-    "image":"data/devs-pics/manuel-hernandez.jpg",
+    "image": "data/devs-pics/manuel-hernandez.jpg",
     "summary": "Software Architect with 7+ years of experience.",
-    "skills":"Software Architecture,C#"
+    "skills": "Software Architecture,C#"
   },
   {
     "name": "Luis Pujols",
     "initials": "LP",
-    "image":"data/devs-pics/luis-pujols.png",
+    "image": "data/devs-pics/luis-pujols.png",
     "summary": "Mobile Developer using Xamarin all the way up.",
-    "skills":"Xamarin,Android,iOS"
+    "skills": "Xamarin,Android,iOS"
   },
   {
     "name": "Dionny Prensa",
     "initials": "DP",
-    "image":"data/devs-pics/dionny-prensa.jpeg",
+    "image": "data/devs-pics/dionny-prensa.jpeg",
     "summary": "Software Backend, Mobile & DWH Developer.\nI like to write code and analyze data.\nI love to share with cheerfull people.\nI like Baseball, Basketball, Vitilla: 3 and Videogames.\nFrustrated bass and piano apprentice",
-    "skills":"Javascript,React,NodeJS,TSQL,.NET(C#)"
+    "skills": "Javascript,React,NodeJS,TSQL,.NET(C#)"
   },
   {
     "name": "Raymond Coplin",
     "initials": "RC",
-    "image":"data/devs-pics/raymond-coplin.jpg",
+    "image": "data/devs-pics/raymond-coplin.jpg",
     "summary": "Angular Expert with 6+ years of experience.",
-    "skills":"Angular,Javascript,C#,Software Architecture"
+    "skills": "Angular,Javascript,C#,Software Architecture"
+  },
+  {
+    "name": "Robert Lluberes",
+    "initials": "RL",
+    "image": "data/devs-pics/robert-lluberes.jpg",
+    "summary": ".NET Backend Developer with more than 3 years of experience, currently learning Angular.",
+    "skills": ".NET(C#),TSQL"
   }
 ]
