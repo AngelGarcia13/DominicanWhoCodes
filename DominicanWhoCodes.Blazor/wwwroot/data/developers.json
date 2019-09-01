@@ -19,5 +19,12 @@
     "image":"data/devs-pics/luis-pujols.png",
     "summary": "Mobile Developer using Xamarin all the way up.",
     "skills":"Xamarin,Android,iOS"
+  },
+  {
+    "name": "Dionny Prensa",
+    "initials": "DP",
+    "image":"data/devs-pics/dionny-prensa.jpeg",
+    "summary": "Software Backend, Mobile & DWH Developer.\nI like to write code and analyze data.\nI love to share with cheerfull people.\nI like Baseball, Basketball, Vitilla: 3 and Videogames.\nFrustrated bass and piano apprentice",
+    "skills":"Javascript,React,NodeJS,TSQL,.NET(C#)"
   }
 ]
