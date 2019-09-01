@@ -21,6 +21,13 @@
     "skills":"Xamarin,Android,iOS"
   },
   {
+    "name": "Dionny Prensa",
+    "initials": "DP",
+    "image":"data/devs-pics/dionny-prensa.jpeg",
+    "summary": "Software Backend, Mobile & DWH Developer.\nI like to write code and analyze data.\nI love to share with cheerfull people.\nI like Baseball, Basketball, Vitilla: 3 and Videogames.\nFrustrated bass and piano apprentice",
+    "skills":"Javascript,React,NodeJS,TSQL,.NET(C#)"
+  },
+  {
     "name": "Raymond Coplin",
     "initials": "RC",
     "image":"data/devs-pics/raymond-coplin.jpg",
