@@ -19,7 +19,7 @@
     filter: grayscale(100%);
     transition: all 0.5s ease-out;
 }
-.card-img-top:hover {
+.card:hover .card-img-top {
     -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
     filter: grayscale(0%);
 }
