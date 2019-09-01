@@ -2,7 +2,7 @@
   {
     "name": "Angel Garcia",
     "initials": "AG",
-    "image":"https://dummyimage.com/1000x1000/bdbdbd/ffffff",
+    "image":"data/devs-pics/angel-garcia.jpg",
     "summary": "Web and Mobile developers who loves basketball.",
     "skills":"C#,Xamarin Forms,Azure"
   },
@@ -12,5 +12,12 @@
     "image":"https://dummyimage.com/1000x1000/bdbdbd/ffffff",
     "summary": "Software Architect with 7+ years of experience.",
     "skills":"Software Architecture,C#"
+  },
+  {
+    "name": "Luis Pujols",
+    "initials": "LP",
+    "image":"https://dummyimage.com/1000x1000/bdbdbd/ffffff",
+    "summary": "Mobile Developer using Xamarin all the way up.",
+    "skills":"Xamarin,Android,iOS"
   }
 ]

@@ -7,12 +7,15 @@
     }
     else
     {
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-        @foreach (var developer in developers){
-            <CardComponent Name="@developer.Name" Initials="@developer.Initials" Image="@developer.Image" Summary="@developer.Summary" Skills="@developer.Skills"/>
+
+        @foreach (var developer in developers)
+        {
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                <CardComponent Name="@developer.Name" Initials="@developer.Initials" Image="@developer.Image" Summary="@developer.Summary" Skills="@developer.Skills" />
+            </div>
         }
-        </div>
-    }      
+
+    }
 </div>
 
 @code {

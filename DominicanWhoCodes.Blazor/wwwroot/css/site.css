@@ -2,10 +2,26 @@
     background-color: #f5f5f5;
     color: #343a40;
 }
-
+.navbar-toggler, .navbar-toggler:focus, .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+    border-color: transparent !important;
+    background-color: transparent !important;
+  }
 .card {
-    margin-bottom: 50px;
+    border-radius: .90rem;
     box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, .03);
+}
+.card-img-top {
+    border-top-left-radius: calc(.90rem - 1px);
+    border-top-right-radius: calc(.90rem - 1px);
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    transition: all 0.5s ease-out;
+}
+.card-img-top:hover {
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
 }
 
 .avatar-sm {
@@ -32,6 +48,12 @@
 }
 .info-space{
     margin-bottom:3px; 
+}
+.description-space{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .social-networks{
     font-size: x-large;
