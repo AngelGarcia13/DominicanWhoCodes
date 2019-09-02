@@ -40,5 +40,12 @@
     "image": "data/devs-pics/robert-lluberes.jpg",
     "summary": ".NET Backend Developer with more than 3 years of experience, currently learning Angular.",
     "skills": ".NET(C#),TSQL"
+  },
+  {
+    "name": "Johanny S. Novas",
+    "initials": "JN",
+    "image": "data/devs-pics/jnovas.jpg",
+    "summary": "Backend, Javascript and Mobile developer",
+    "skills": "C#,Android,JavaScript,NativeScript"
   }
 ]
