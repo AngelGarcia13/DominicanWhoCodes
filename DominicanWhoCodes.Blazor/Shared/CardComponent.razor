@@ -20,9 +20,9 @@
             </p>
         </div>
         <div class="social-networks">
-            <a href="#" class="text-dark"><i class="fas fa-globe-americas"></i></a>
-            <a href="#" class="text-dark"><i class="fab fa-linkedin"></i></a>
-            <a href="#" class="text-dark"><i class="fab fa-twitter"></i></a>
+            @if(Wegpage != null) { <a href="@Wegpage" class="text-dark"><i class="fas fa-globe-americas"></i></a> }
+            @if(Linkedin != null) { <a href="@Linkedin" class="text-dark"><i class="fab fa-linkedin"></i></a> }
+            @if(Twitter != null) { <a href="@Twitter" class="text-dark"><i class="fab fa-twitter"></i></a> }
         </div>
     </div>
 </div>
@@ -39,4 +39,10 @@
     [Parameter]
     public string Skills { get; set; }
     public string[] SkillsList => Skills.Split(',');
+    [Parameter]
+    public string Wegpage { get; set; }
+    [Parameter]
+    public string Linkedin { get; set; }
+    [Parameter]
+    public string Twitter { get; set; }
 }
