@@ -41,6 +41,13 @@
     "summary": ".NET Backend Developer with more than 3 years of experience, currently learning Angular.",
     "skills": ".NET(C#),TSQL"
   },
+   {
+     "name": "Jean Calderon",
+    "initials": "JC",
+    "image": "data/devs-pics/jean-calderon.jpg",
+    "summary": "Backend and Mobile Software Developer. Enthusiast of IOT and AI",
+    "skills": "C#,Android,Python"
+   },
   {
     "name": "Johanny S. Novas",
     "initials": "JN",
