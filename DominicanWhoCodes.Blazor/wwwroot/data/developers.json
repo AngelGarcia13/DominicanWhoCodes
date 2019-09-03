@@ -4,48 +4,55 @@
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
     "summary": "Backend and Mobile developer who loves basketball.",
-    "skills": "C#,Xamarin.Forms,Azure"
+    "skills": "C#,Xamarin.Forms,Azure",
+    "linkedin": "https://www.linkedin.com/in/angelrenegarcia/"
   },
   {
     "name": "Manuel Hernandez",
     "initials": "MH",
     "image": "data/devs-pics/manuel-hernandez.jpg",
     "summary": "Software Architect with 7+ years of experience.",
-    "skills": "Software Architecture,C#"
+    "skills": "Software Architecture,C#",
+    "linkedin": "https://www.linkedin.com/in/mhernandez001/"
   },
   {
     "name": "Luis Pujols",
     "initials": "LP",
     "image": "data/devs-pics/luis-pujols.png",
     "summary": "Mobile Developer using Xamarin all the way up.",
-    "skills": "Xamarin,Android,iOS"
+    "skills": "Xamarin,Android,iOS",
+    "linkedin": "https://www.linkedin.com/in/luis-pujols-12b2ba71/"
   },
   {
     "name": "Dionny Prensa",
     "initials": "DP",
     "image": "data/devs-pics/dionny-prensa.jpeg",
     "summary": "Software Backend, Mobile & DWH Developer. I like to write code and analyze data.",
-    "skills": "Javascript,React,NodeJS,TSQL,.NET(C#)"
+    "skills": "Javascript,React,NodeJS,TSQL,.NET(C#)",
+    "linkedin": "https://www.linkedin.com/in/dionny-prensa/"
   },
   {
     "name": "Raymond Coplin",
     "initials": "RC",
     "image": "data/devs-pics/raymond-coplin.jpg",
     "summary": "Angular Expert with 6+ years of experience.",
-    "skills": "Angular,Javascript,C#,Software Architecture"
+    "skills": "Angular,Javascript,C#,Software Architecture",
+    "linkedin": "https://www.linkedin.com/in/raymond-coplin-94a145125/"
   },
   {
     "name": "Robert Lluberes",
     "initials": "RL",
     "image": "data/devs-pics/robert-lluberes.jpg",
     "summary": ".NET Backend Developer with more than 3 years of experience, currently learning Angular.",
-    "skills": ".NET(C#),TSQL"
+    "skills": ".NET(C#),TSQL",
+    "linkedin": "https://www.linkedin.com/in/robertlluberes/"
   },
   {
     "name": "Jean Calderon",
     "initials": "JC",
     "image": "data/devs-pics/jean-calderon.jpg",
-    "summary": "Backend and Mobile Software Developer. Enthusiast of IOT and AI",
-    "skills": "C#,Android,Python"
+    "summary": "Backend and Mobile Software Developer. Enthusiast of IOT and AI.",
+    "skills": "C#,Android,Python",
+    "linkedin": "https://linkedin.com/in/jeancalderon/"
   }
 ]
