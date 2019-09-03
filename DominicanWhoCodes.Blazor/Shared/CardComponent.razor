@@ -20,7 +20,7 @@
             </p>
         </div>
         <div class="social-networks">
-            @if(Wegpage != null) { <a href="@Wegpage" class="text-dark"><i class="fas fa-globe-americas"></i></a> }
+            @if(Webpage != null) { <a href="@Webpage" class="text-dark"><i class="fas fa-globe-americas"></i></a> }
             @if(Linkedin != null) { <a href="@Linkedin" class="text-dark"><i class="fab fa-linkedin"></i></a> }
             @if(Twitter != null) { <a href="@Twitter" class="text-dark"><i class="fab fa-twitter"></i></a> }
         </div>
@@ -40,7 +40,7 @@
     public string Skills { get; set; }
     public string[] SkillsList => Skills.Split(',');
     [Parameter]
-    public string Wegpage { get; set; }
+    public string Webpage { get; set; }
     [Parameter]
     public string Linkedin { get; set; }
     [Parameter]
