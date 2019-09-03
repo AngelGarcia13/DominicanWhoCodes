@@ -47,12 +47,20 @@
     "skills": ".NET(C#),TSQL",
     "linkedin": "https://www.linkedin.com/in/robertlluberes/"
   },
-  {
-    "name": "Jean Calderon",
+   {
+     "name": "Jean Calderon",
     "initials": "JC",
     "image": "data/devs-pics/jean-calderon.jpg",
-    "summary": "Backend and Mobile Software Developer. Enthusiast of IOT and AI.",
+    "summary": "Backend and Mobile Software Developer. Enthusiast of IOT and AI",
     "skills": "C#,Android,Python",
     "linkedin": "https://linkedin.com/in/jeancalderon/"
+   },
+  {
+    "name": "Johanny S. Novas",
+    "initials": "JN",
+    "image": "data/devs-pics/jnovas.jpg",
+    "summary": "Backend, Javascript and Mobile developer",
+    "skills": "C#,Android,JavaScript,NativeScript",
+    "Twitter": "https://twitter.com/juanchinovas"
   }
 ]

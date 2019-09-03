@@ -8,12 +8,14 @@
             <div class="pl-3"><span class="h6 text-sm mb-0">@Name</span></div>
 
         </div>
-        <div class="info-space">
-            @foreach (var skill in @SkillsList)
-            {
-                <span class="badge badge-dark badge-pill">@skill</span>
-            }
-        </div>
+        <section id="info-skills">
+            <div class="info-space">
+                @foreach (var skill in @SkillsList)
+                {
+                    <span class="badge badge-dark badge-pill">@skill</span>
+                }
+            </div>
+        </section>
         <div class="description-space">
             <p class="text-muted text-monospace ">
                 <small>@Summary</small>
