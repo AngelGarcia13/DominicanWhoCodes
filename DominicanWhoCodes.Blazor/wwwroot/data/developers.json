@@ -86,5 +86,14 @@
     "skills": "C#, Javascript, Laravel, Vue",
     "Twitter": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/",
     "github": "https://github.com/Ahcom1019"
+  },
+  {
+    "name": "Leandro Jiménez J.",
+    "initials": "LJJ",
+    "image": "data/devs-pics/leandro-jimenez.png",
+    "summary": "Full-stack developer (Youth Chess Sub Champion, DR)",
+    "skills": "C#,JavaScript,VueJS",
+    "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/" ,
+    "github": "https://github.com/leandrojj13"
   }
 ]
