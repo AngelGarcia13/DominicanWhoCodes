@@ -62,5 +62,14 @@
     "summary": "Backend, Javascript and Mobile developer",
     "skills": "C#,Android,JavaScript,NativeScript",
     "Twitter": "https://twitter.com/juanchinovas"
+  },
+
+  {
+    "name": "Carlos De La Cruz",
+    "initials": "CC",
+    "image": "data/devs-pics/cdelacruz.jpg",
+    "summary": "Full-Stack Web Developer",
+    "skills": "C#, Javascript, Laravel, Vue",
+    "Twitter": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/"
   }
 ]
