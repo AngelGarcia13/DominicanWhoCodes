@@ -62,5 +62,13 @@
     "summary": "Backend, Javascript and Mobile developer",
     "skills": "C#,Android,JavaScript,NativeScript",
     "Twitter": "https://twitter.com/juanchinovas"
+  },
+  {
+    "name": "Claudio Sánchez",
+    "initials": "CS",
+    "image": "data/devs-pics/claudio-sanchez.jpg",
+    "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
+    "skills": "C#",
+    "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
   }
 ]
