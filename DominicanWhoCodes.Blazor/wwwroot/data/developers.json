@@ -1,4 +1,5 @@
-﻿[{
+﻿[
+   {
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
@@ -76,5 +77,14 @@
     "skills": "C#",
     "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/",
     "github": "https://github.com/claudiosanchez"
+  },
+  {
+    "name": "Carlos De La Cruz",
+    "initials": "CC",
+    "image": "data/devs-pics/cdelacruz.jpg",
+    "summary": "Full-Stack Web Developer",
+    "skills": "C#, Javascript, Laravel, Vue",
+    "Twitter": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/",
+    "github": "https://github.com/Ahcom1019"
   }
 ]
