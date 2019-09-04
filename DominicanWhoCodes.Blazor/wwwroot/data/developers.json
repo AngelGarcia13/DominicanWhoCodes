@@ -1,11 +1,11 @@
-﻿[
-  {
+﻿[{
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
     "summary": "Backend and Mobile developer who loves basketball.",
     "skills": "C#,Xamarin.Forms,Azure",
-    "linkedin": "https://www.linkedin.com/in/angelrenegarcia/"
+    "linkedin": "https://www.linkedin.com/in/angelrenegarcia/",
+    "github": "https://github.com/AngelGarcia13"
   },
   {
     "name": "Manuel Hernandez",
@@ -29,7 +29,8 @@
     "image": "data/devs-pics/dionny-prensa.jpeg",
     "summary": "Software Backend, Mobile & DWH Developer. I like to write code and analyze data.",
     "skills": "Javascript,React,NodeJS,TSQL,.NET(C#)",
-    "linkedin": "https://www.linkedin.com/in/dionny-prensa/"
+    "linkedin": "https://www.linkedin.com/in/dionny-prensa/",
+    "github": "https://github.com/AngelGarcia13"
   },
   {
     "name": "Raymond Coplin",
@@ -37,7 +38,8 @@
     "image": "data/devs-pics/raymond-coplin.jpg",
     "summary": "Angular Expert with 6+ years of experience.",
     "skills": "Angular,Javascript,C#,Software Architecture",
-    "linkedin": "https://www.linkedin.com/in/raymond-coplin-94a145125/"
+    "linkedin": "https://www.linkedin.com/in/raymond-coplin-94a145125/",
+    "github": "https://github.com/RaymondCoplin"
   },
   {
     "name": "Robert Lluberes",
@@ -45,23 +47,26 @@
     "image": "data/devs-pics/robert-lluberes.jpg",
     "summary": ".NET Backend Developer with more than 3 years of experience, currently learning Angular.",
     "skills": ".NET(C#),TSQL",
-    "linkedin": "https://www.linkedin.com/in/robertlluberes/"
+    "linkedin": "https://www.linkedin.com/in/robertlluberes/",
+    "github": "https://github.com/robertlluberes"
   },
-   {
-     "name": "Jean Calderon",
+  {
+    "name": "Jean Calderon",
     "initials": "JC",
     "image": "data/devs-pics/jean-calderon.jpg",
     "summary": "Backend and Mobile Software Developer. Enthusiast of IOT and AI",
     "skills": "C#,Android,Python",
-    "linkedin": "https://linkedin.com/in/jeancalderon/"
-   },
+    "linkedin": "https://linkedin.com/in/jeancalderon/",
+    "github": "https://github.com/JeanCCV"
+  },
   {
     "name": "Johanny S. Novas",
     "initials": "JN",
     "image": "data/devs-pics/jnovas.jpg",
     "summary": "Backend, Javascript and Mobile developer",
     "skills": "C#,Android,JavaScript,NativeScript",
-    "Twitter": "https://twitter.com/juanchinovas"
+    "Twitter": "https://twitter.com/juanchinovas",
+    "github": "https://github.com/juanchinovas"
   },
   {
     "name": "Claudio Sánchez",
@@ -69,6 +74,7 @@
     "image": "data/devs-pics/claudio-sanchez.jpg",
     "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
     "skills": "C#",
-    "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
+    "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/",
+    "github": "https://github.com/claudiosanchez"
   }
 ]
