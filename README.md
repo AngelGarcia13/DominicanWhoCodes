@@ -7,5 +7,6 @@ The idea is to have this directoy where you could find the Dominicans devs info,
 
 ### Blazor Client App.
 
-Amazon S3 Bucket: http://www.dominicanwho.codes.s3-website-us-east-1.amazonaws.com/
-Azure WebApp (Free Tier, could be stopped anytime): http://dominicanwhocodes.azurewebsites.net/
+🚀 Amazon S3 Bucket: http://www.dominicanwho.codes.s3-website-us-east-1.amazonaws.com/
+
+🚀 Azure WebApp (Free Tier, could be stopped anytime): http://dominicanwhocodes.azurewebsites.net/
