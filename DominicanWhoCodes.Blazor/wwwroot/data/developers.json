@@ -70,5 +70,13 @@
     "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
     "skills": "C#",
     "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
+  },
+  {
+    "name": "Leandro Jiménez J.",
+    "initials": "LJJ",
+    "image": "data/devs-pics/leandro-jimenez.png",
+    "summary": "Full-stack developer (Youth Chess Sub Champion, DR)",
+    "skills": "C#,JavaScript,VueJS",
+    "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/" 
   }
 ]
