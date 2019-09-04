@@ -70,5 +70,13 @@
     "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
     "skills": "C#",
     "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
+  },
+  {
+    "name": "Omar Gaston",
+    "initials": "OG",
+    "image": "data/devs-pics/ogaston.jpg",
+    "summary": "Full-Stack Javascript Developer, Amateur Blogger and Pizza Eater",
+    "skills": "React,Node.js,JavaScript,TypeScript",
+    "Twitter": "https://twitter.com/ogastonc"
   }
 ]
