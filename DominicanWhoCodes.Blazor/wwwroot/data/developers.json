@@ -70,5 +70,15 @@
     "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
     "skills": "C#",
     "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
+  },
+
+  {
+    "name": "Carlos De La Cruz",
+    "initials": "CC",
+    "image": "data/devs-pics/cdelacruz.jpg",
+    "summary": "Full-Stack Web Developer",
+    "skills": "C#, Javascript, Laravel, Vue",
+    "Twitter": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/"
   }
+
 ]
