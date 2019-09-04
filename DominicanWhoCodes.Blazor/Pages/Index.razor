@@ -7,15 +7,21 @@
     }
     else
     {
-
         @foreach (var developer in developers)
         {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-                <CardComponent Name="@developer.Name" Initials="@developer.Initials" Image="@developer.Image" Summary="@developer.Summary" Skills="@developer.Skills" Webpage="@developer.Webpage" 
-                               LinkedIn="@developer.LinkedIn" Twitter="@developer.Twitter"/>
+                <CardComponent
+                    Name="@developer.Name"
+                    Initials="@developer.Initials"
+                    Image="@developer.Image"
+                    Summary="@developer.Summary"
+                    Skills="@developer.Skills"
+                    Webpage="@developer.Webpage"
+                    LinkedIn="@developer.LinkedIn"
+                    Twitter="@developer.Twitter"
+                    Github="@developer.Github"/>
             </div>
         }
-
     }
 </div>
 
@@ -25,6 +31,7 @@
     protected override async Task OnInitializedAsync()
     {
         developers = await Http.GetJsonAsync<Developer[]>("data/developers.json");
+        developers = developers.OrderBy(d => d.Initials).ToArray();
     }
 
     public class Developer
@@ -37,5 +44,6 @@
         public string Webpage { get; set; }
         public string LinkedIn { get; set; }
         public string Twitter { get; set; }
+        public string Github { get; set; }
     }
 }
