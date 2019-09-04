@@ -63,6 +63,14 @@
     "skills": "C#,Android,JavaScript,NativeScript",
     "Twitter": "https://twitter.com/juanchinovas"
   },
+  {
+    "name": "Claudio Sánchez",
+    "initials": "CS",
+    "image": "data/devs-pics/claudio-sanchez.jpg",
+    "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
+    "skills": "C#",
+    "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
+  },
 
   {
     "name": "Carlos De La Cruz",
@@ -71,12 +79,6 @@
     "summary": "Full-Stack Web Developer",
     "skills": "C#, Javascript, Laravel, Vue",
     "Twitter": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/"
-  {
-    "name": "Claudio Sánchez",
-    "initials": "CS",
-    "image": "data/devs-pics/claudio-sanchez.jpg",
-    "summary": "Mobile Practitioner, Conference Organizer, Tech Executive",
-    "skills": "C#",
-    "Twitter": "https://www.linkedin.com/in/ClaudioASanchez/" 
   }
+
 ]
