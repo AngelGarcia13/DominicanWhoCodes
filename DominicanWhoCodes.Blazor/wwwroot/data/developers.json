@@ -1,4 +1,4 @@
-﻿[
+[
    {
     "name": "Angel Garcia",
     "initials": "AG",
@@ -90,7 +90,7 @@
   {
     "name": "Leandro Jiménez J.",
     "initials": "LJJ",
-    "image": "data/devs-pics/leandro-jimenez.png",
+    "image": "data/devs-pics/leandro-jimenez.PNG",
     "summary": "Full-stack developer (Youth Chess Sub Champion, DR)",
     "skills": "C#,JavaScript,VueJS",
     "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/" ,
