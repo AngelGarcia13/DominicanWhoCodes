@@ -95,5 +95,14 @@
     "skills": "C#,JavaScript,VueJS",
     "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/" ,
     "github": "https://github.com/leandrojj13"
+  },
+  {
+    "name": "Miguel Hiciano",
+    "initials": "MH",
+    "image": "data/devs-pics/miguel-hiciano.jpg",
+    "summary": "An electronic technician who for some reason knows how to code",
+    "skills": "Python,Odoo,Arduino,Raspberry pi,Hardware",
+    "linkedin": "https://www.linkedin.com/in/miguel-hiciano-61883213b/",
+    "github": "https://github.com/MikeHiciano"
   }
 ]
