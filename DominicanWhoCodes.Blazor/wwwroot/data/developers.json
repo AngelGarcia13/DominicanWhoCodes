@@ -75,10 +75,10 @@
   {
     "name": "Carlos De La Cruz",
     "initials": "CC",
-    "image": "data/devs-pics/cdelacruz.jpg",
-    "summary": "Full-Stack Web Developer",
+    "image": "data/devs-pics/cdelacruz.jpeg",
+    "summary": "Full-Stack Web Developer, I like to build applications that are efficient and contribute to open source projects.",
     "skills": "C#, Javascript, Laravel, Vue",
-    "Twitter": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/"
+    "linkedin": "https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/"
   }
 
 ]
