@@ -144,6 +144,15 @@
     "linkedin": "www.linkedin.com/in/AVTO",
     "github": "https://github.com/Avto9711",
     "twitter":"https://twitter.com/angeliisimo"
+  },
+  {
+    "name": "Albert Eduardo Hidalgo Taveras",
+    "initials": "AEHT",
+    "image": "data/devs-pics/albert-hidalgo.jpg",
+    "summary": "My life is summed up in coding and supermoto",
+    "skills": "PHP (Symfony, Ligne[Own Framework]), Vue, UX",
+    "github": "https://github.com/itsalb3rt",
+    "twitter":"https://twitter.com/itsHivat"
   }
 
 ]
