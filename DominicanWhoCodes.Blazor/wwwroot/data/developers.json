@@ -108,6 +108,15 @@
     "github": "https://github.com/MikeHiciano"
   },
   {
+    "name": "Lewandy Diloné Bonifacio",
+    "initials": "LD",
+    "image": "data/devs-pics/lewandy-dilone.jpeg",
+    "summary": "Passionate about computing science, Supporter of good practices and quality solutions",
+    "skills": "JavaScript (VueJS), C# (.NET CORE), PHP(Laravel)",
+    "linkedin": "https://www.linkedin.com/in/lewandy-dilone-b90849148",
+    "github": "https://github.com/lewandy"
+  },
+  {
     "name": "Jose Hidalgo",
     "initials": "JH",
     "image": "data/devs-pics/jose-hidalgo.jpg",
