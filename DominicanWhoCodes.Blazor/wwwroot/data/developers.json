@@ -104,5 +104,14 @@
     "skills": "Python,Odoo,Arduino,Raspberry pi,Hardware",
     "linkedin": "https://www.linkedin.com/in/miguel-hiciano-61883213b/",
     "github": "https://github.com/MikeHiciano"
+  },
+  {
+    "name": "Jose Hidalgo",
+    "initials": "JH",
+    "image": "data/devs-pics/jose-hidalgo.jpg",
+    "summary": "Full stack developer who loves to solve problem",
+    "skills": "C#, Javascript, Angular and TSQL",
+    "linkedin": "https://www.linkedin.com/in/jose-hidalgo-rosa/",
+    "github": "https://github.com/JoseAngel1196"
   }
 ]
