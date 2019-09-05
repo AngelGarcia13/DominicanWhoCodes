@@ -149,19 +149,10 @@
     "name": "Albert Eduardo Hidalgo Taveras",
     "initials": "AEHT",
     "image": "data/devs-pics/albert-hidalgo.jpg",
-    "summary": "Super moto and coding",
+    "summary": "My life is summed up in coding and supermoto",
     "skills": "PHP (Symfony, Ligne[Own Framework]), Vue, UX",
     "github": "https://github.com/itsalb3rt",
     "twitter":"https://twitter.com/itsHivat"
-  },
-  {
-    "name": "Cristopher Jr. Vivieca Ramos",
-    "initials": "CV",
-    "image": "data/devs-pics/cristopher-vivieca.jpg",
-    "summary": "Software Engineer passionate about building scalable and clean code software based on best industry practices. Skilled on .NET technologies.",
-    "skills": ".NET (C#), Javascript, AWS",
-    "linkedin": "https://www.linkedin.com/in/cristophervivieca/",
-    "github": "https://github.com/cvivieca",
-    "twitter":"https://twitter.com/cvivieca"
   }
+
 ]
