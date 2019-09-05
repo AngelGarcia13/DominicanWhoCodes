@@ -124,5 +124,15 @@
     "skills": "C#, Javascript, Angular and TSQL",
     "linkedin": "https://www.linkedin.com/in/jose-hidalgo-rosa/",
     "github": "https://github.com/JoseAngel1196"
+  },
+  {
+    "name": "Cesar Lachapelle",
+    "initials": "CL",
+    "image": "data/devs-pics/cesar-lachapelle.jpg",
+    "summary": "Software developer who loves to talk about cloud, new technologies and software architecture",
+    "skills": "C#, Javascript, Angular, .NET CORE, Azure and TSQL",
+    "linkedin": "www.linkedin.com/in/cesarlachapelle",
+    "github": "https://github.com/Cesarlachapelle",
+    "twitter": "https://twitter.com/CALachapelle"
   }
 ]
