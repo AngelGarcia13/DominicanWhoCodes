@@ -124,5 +124,16 @@
     "skills": "C#, Javascript, Angular and TSQL",
     "linkedin": "https://www.linkedin.com/in/jose-hidalgo-rosa/",
     "github": "https://github.com/JoseAngel1196"
+  },
+  {
+    "name": "Angel Torres",
+    "initials": "AVTO",
+    "image": "data/devs-pics/angel-torres.jpg",
+    "summary": "A coding Guy who loves to travel and work with friends.",
+    "skills": "ASP.NET, Azure, Vue, RN",
+    "linkedin": "www.linkedin.com/in/AVTO",
+    "github": "https://github.com/Avto9711",
+    "twitter":"https://twitter.com/angeliisimo"
   }
+
 ]
