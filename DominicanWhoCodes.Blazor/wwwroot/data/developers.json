@@ -104,7 +104,7 @@
     "initials": "LJJ",
     "image": "data/devs-pics/leandro-jimenez.PNG",
     "summary": "Full-stack developer (Youth Chess Sub Champion, DR)",
-    "skills": "C#,JavaScript,VueJS",
+    "skills": "C#,JavaScript,VueJS,Azure",
     "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/",
     "github": "https://github.com/leandrojj13"
   },
@@ -141,9 +141,18 @@
     "image": "data/devs-pics/angel-torres.jpg",
     "summary": "A coding Guy who loves to travel and work with friends.",
     "skills": "ASP.NET, Azure, Vue, RN",
-    "linkedin": "www.linkedin.com/in/AVTO",
+    "linkedin": "https://www.linkedin.com/in/AVTO",
     "github": "https://github.com/Avto9711",
-    "twitter": "https://twitter.com/angeliisimo"
+    "twitter":"https://twitter.com/angeliisimo"
+  },
+  {
+    "name": "Albert Eduardo Hidalgo Taveras",
+    "initials": "AEHT",
+    "image": "data/devs-pics/albert-hidalgo.jpg",
+    "summary": "My life is summed up in coding and supermoto",
+    "skills": "PHP (Symfony, Ligne[Own Framework]), Vue, UX",
+    "github": "https://github.com/itsalb3rt",
+    "twitter":"https://twitter.com/itsHivat"
   },
   {
     "name": "José Maldonado Pozo",
@@ -153,5 +162,4 @@
     "skills": "C#,VB.net,C++,PHP,JavaScript, Node.js, CSS",
     "linkedin": "https://www.linkedin.com/in/jose-maldonado-a5a546130/"
   }
-
 ]
