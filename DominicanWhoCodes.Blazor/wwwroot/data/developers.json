@@ -81,6 +81,16 @@
     "github": "https://github.com/claudiosanchez"
   },
   {
+    "name": "Omar Gaston",
+    "initials": "OG",
+    "image": "data/devs-pics/omar-gaston.jpg",
+    "summary": "Full-Stack JavaScript Developer, Amateur Blogger and Pizza Fanboy",
+    "skills": "React,Node.js,JavaScript,TypeScript",
+    "Twitter": "https://twitter.com/ogastonc",
+    "linkedin": "https://www.linkedin.com/in/omar-gaston-chalas/",
+    "github": "https://github.com/ogaston"
+  },
+  {
     "name": "Carlos De La Cruz",
     "initials": "CC",
     "image": "data/devs-pics/cdelacruz.jpeg",
@@ -95,7 +105,7 @@
     "image": "data/devs-pics/leandro-jimenez.PNG",
     "summary": "Full-stack developer (Youth Chess Sub Champion, DR)",
     "skills": "C#,JavaScript,VueJS",
-    "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/" ,
+    "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/",
     "github": "https://github.com/leandrojj13"
   },
   {
