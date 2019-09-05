@@ -6,7 +6,9 @@
     "summary": "Backend and Mobile developer who loves basketball.",
     "skills": "C#,Xamarin.Forms,Azure",
     "linkedin": "https://www.linkedin.com/in/angelrenegarcia/",
-    "github": "https://github.com/AngelGarcia13"
+    "github": "https://github.com/AngelGarcia13",
+    "twitter": "https://twitter.com/_AngelGarcia13",
+    "webpage": "http://talkwithangel.com"
   },
   {
     "name": "Manuel Hernandez",
@@ -113,5 +115,14 @@
     "skills": "JavaScript (VueJS), C# (.NET CORE), PHP(Laravel)",
     "linkedin": "https://www.linkedin.com/in/lewandy-dilone-b90849148",
     "github": "https://github.com/lewandy"
+  },
+  {
+    "name": "Jose Hidalgo",
+    "initials": "JH",
+    "image": "data/devs-pics/jose-hidalgo.jpg",
+    "summary": "Full stack developer who loves to solve problem",
+    "skills": "C#, Javascript, Angular and TSQL",
+    "linkedin": "https://www.linkedin.com/in/jose-hidalgo-rosa/",
+    "github": "https://github.com/JoseAngel1196"
   }
 ]
