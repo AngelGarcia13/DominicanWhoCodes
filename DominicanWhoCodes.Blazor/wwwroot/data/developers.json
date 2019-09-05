@@ -104,5 +104,14 @@
     "skills": "Python,Odoo,Arduino,Raspberry pi,Hardware",
     "linkedin": "https://www.linkedin.com/in/miguel-hiciano-61883213b/",
     "github": "https://github.com/MikeHiciano"
+  },
+  {
+    "name": "Lewandy Diloné Bonifacio",
+    "initials": "LD",
+    "image": "data/devs-pics/lewandy-dilone.jpeg",
+    "summary": "Passionate about computing science, Supporter of good practices and quality solutions",
+    "skills": "JavaScript (VueJS), C# (.NET CORE), PHP(Laravel)",
+    "linkedin": "https://www.linkedin.com/in/lewandy-dilone-b90849148",
+    "github": "https://github.com/lewandy"
   }
 ]
