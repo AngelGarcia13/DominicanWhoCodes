@@ -143,7 +143,15 @@
     "skills": "ASP.NET, Azure, Vue, RN",
     "linkedin": "www.linkedin.com/in/AVTO",
     "github": "https://github.com/Avto9711",
-    "twitter":"https://twitter.com/angeliisimo"
+    "twitter": "https://twitter.com/angeliisimo"
+  },
+  {
+    "name": "José Maldonado Pozo",
+    "initials": "JM",
+    "image": "data/devs-pics/jmaldonado.jpg",
+    "summary": "Backend and Frontend Developer",
+    "skills": "C#,VB.net,C++,PHP,JavaScript, Node.js, CSS",
+    "linkedin": "https://www.linkedin.com/in/jose-maldonado-a5a546130/"
   }
 
 ]
