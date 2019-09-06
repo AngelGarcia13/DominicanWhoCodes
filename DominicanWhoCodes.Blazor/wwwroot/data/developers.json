@@ -191,5 +191,14 @@
     "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
     "github": "https://github.com/Capellan29",
     "twitter":"https://twitter.com/enriquecapellan"
+  },
+  {
+    "name": "Yhorby Matias",
+    "initials": "YM",
+    "image": "data/devs-pics/yhorby-matias.jpeg",
+    "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
+    "skills": "C#,Azure",
+    "linkedin": "https://www.linkedin.com/in/matiashs/",
+    "twitter":"https://twitter.com/yhorbymatias" 
   }
 ]
