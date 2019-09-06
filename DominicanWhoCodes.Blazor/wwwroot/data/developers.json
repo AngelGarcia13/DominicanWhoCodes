@@ -181,5 +181,15 @@
     "linkedin": "https://www.linkedin.com/in/enriqueortizpi/",
     "github": "https://github.com/Evalir",
     "twitter": "https://twitter.com/hievalir"
+  },
+  {
+    "name": "Enrique Capellán",
+    "initials": "EC",
+    "image": "data/devs-pics/capellan.jpg",
+    "summary": "A nigga who like to write some code.",
+    "skills": "C#, Vue.JS, UmbracoCMS",
+    "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
+    "github": "https://github.com/Capellan29",
+    "twitter":"https://twitter.com/enriquecapellan"
   }
 ]
