@@ -163,6 +163,16 @@
     "linkedin": "https://www.linkedin.com/in/jose-maldonado-a5a546130/"
   },
   {
+    "name": "Edwardenis De los santos",
+    "initials": "ED",
+    "image": "data/devs-pics/edwardenis.jpg",
+    "summary": "Full-Stack developer that loves to build interesting things and eat pizza.",
+    "skills": "C#, Azure, Cognitive Services, Bot Framework, JS",
+    "linkedin": "https://www.linkedin.com/in/edwardenis-de-los-santos/",
+    "github": "https://github.com/Edwardenis",
+    "twitter":"https://twitter.com/EdwardenisS"
+  },
+  {
     "name": "Enrique Ortiz",
     "initials": "EO",
     "image": "data/devs-pics/enrique-ortiz.jpg",
