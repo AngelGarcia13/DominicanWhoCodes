@@ -200,5 +200,14 @@
     "skills": "C#,Azure",
     "linkedin": "https://www.linkedin.com/in/matiashs/",
     "twitter":"https://twitter.com/yhorbymatias" 
+  },
+  {
+    "name": "Jefri J. Martínez",
+    "initials": "JM",
+    "image": "data/devs-pics/jefri-martinez.jpg",
+    "summary": "A Systems Engineer passionate about Web & Mobile Development.",
+    "skills": "C#, Xamarin.Forms, AngularJS, Python",
+    "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
+    "github": "https://github.com/jefridev"
   }
 ]
