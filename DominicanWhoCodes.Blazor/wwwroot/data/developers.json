@@ -193,6 +193,16 @@
     "twitter":"https://twitter.com/enriquecapellan"
   },
   {
+    "name": "Angel A Perez",
+    "initials": "AAP",
+    "image": "data/devs-pics/angel-perez.jpg",
+    "summary": "Backend developer always looking for a new challenge.",
+    "skills": "C#, C++ and Node.js",
+    "linkedin": "https://www.linkedin.com/in/angel-perez-severino/",
+    "github": "https://github.com/aperez011",
+    "twitter": "https://twitter.com/ApSeverinol011"
+  },
+  {
     "name": "Yhorby Matias",
     "initials": "YM",
     "image": "data/devs-pics/yhorby-matias.jpeg",
