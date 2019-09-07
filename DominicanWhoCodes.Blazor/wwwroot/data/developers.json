@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
@@ -143,7 +143,7 @@
     "skills": "ASP.NET, Azure, Vue, RN",
     "linkedin": "https://www.linkedin.com/in/AVTO",
     "github": "https://github.com/Avto9711",
-    "twitter":"https://twitter.com/angeliisimo"
+    "twitter": "https://twitter.com/angeliisimo"
   },
   {
     "name": "Albert Eduardo Hidalgo Taveras",
@@ -152,7 +152,7 @@
     "summary": "My life is summed up in coding and supermoto",
     "skills": "PHP (Symfony, Ligne[Own Framework]), Vue, UX",
     "github": "https://github.com/itsalb3rt",
-    "twitter":"https://twitter.com/itsHivat"
+    "twitter": "https://twitter.com/itsHivat"
   },
   {
     "name": "José Maldonado Pozo",
@@ -170,5 +170,44 @@
     "skills": "C#, TS, TSQL",
     "linkedin": "https://www.linkedin.com/in/angel-reyes-espinal-357884184/",
     "github": "https://github.com/AngelReyesEspinal"
+  },
+  {
+    "name": "Edwardenis De los santos",
+    "initials": "ED",
+    "image": "data/devs-pics/edwardenis.jpg",
+    "summary": "Full-Stack developer that loves to build interesting things and eat pizza.",
+    "skills": "C#, Azure, Cognitive Services, Bot Framework, JS",
+    "linkedin": "https://www.linkedin.com/in/edwardenis-de-los-santos/",
+    "github": "https://github.com/Edwardenis",
+    "twitter":"https://twitter.com/EdwardenisS"
+  },
+  {
+    "name": "Enrique Ortiz",
+    "initials": "EO",
+    "image": "data/devs-pics/enrique-ortiz.jpg",
+    "summary": "Software Engineer that is passionate about metal music, conferences, and algorithms.",
+    "skills": "Python,Django,React,JavaScript,Node.js,CSS,Algorithms",
+    "linkedin": "https://www.linkedin.com/in/enriqueortizpi/",
+    "github": "https://github.com/Evalir",
+    "twitter": "https://twitter.com/hievalir"
+  },
+  {
+    "name": "Enrique Capellán",
+    "initials": "EC",
+    "image": "data/devs-pics/capellan.jpg",
+    "summary": "A nigga who like to write some code.",
+    "skills": "C#, Vue.JS, UmbracoCMS",
+    "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
+    "github": "https://github.com/Capellan29",
+    "twitter":"https://twitter.com/enriquecapellan"
+  },
+  {
+    "name": "Yhorby Matias",
+    "initials": "YM",
+    "image": "data/devs-pics/yhorby-matias.jpeg",
+    "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
+    "skills": "C#,Azure",
+    "linkedin": "https://www.linkedin.com/in/matiashs/",
+    "twitter":"https://twitter.com/yhorbymatias" 
   }
 ]
