@@ -1,12 +1,14 @@
 [
-   {
+  {
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
     "summary": "Backend and Mobile developer who loves basketball.",
     "skills": "C#,Xamarin.Forms,Azure",
     "linkedin": "https://www.linkedin.com/in/angelrenegarcia/",
-    "github": "https://github.com/AngelGarcia13"
+    "github": "https://github.com/AngelGarcia13",
+    "twitter": "https://twitter.com/_AngelGarcia13",
+    "webpage": "http://talkwithangel.com"
   },
   {
     "name": "Manuel Hernandez",
@@ -79,6 +81,16 @@
     "github": "https://github.com/claudiosanchez"
   },
   {
+    "name": "Omar Gaston",
+    "initials": "OG",
+    "image": "data/devs-pics/omar-gaston.jpg",
+    "summary": "Full-Stack JavaScript Developer, Amateur Blogger and Pizza Fanboy",
+    "skills": "React,Node.js,JavaScript,TypeScript",
+    "Twitter": "https://twitter.com/ogastonc",
+    "linkedin": "https://www.linkedin.com/in/omar-gaston-chalas/",
+    "github": "https://github.com/ogaston"
+  },
+  {
     "name": "Carlos De La Cruz",
     "initials": "CC",
     "image": "data/devs-pics/cdelacruz.jpeg",
@@ -92,8 +104,8 @@
     "initials": "LJJ",
     "image": "data/devs-pics/leandro-jimenez.PNG",
     "summary": "Full-stack developer (Youth Chess Sub Champion, DR)",
-    "skills": "C#,JavaScript,VueJS",
-    "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/" ,
+    "skills": "C#,JavaScript,VueJS,Azure",
+    "linkedin": "https://www.linkedin.com/in/leandro-jim%C3%A9nez-jim%C3%A9nez-40302713a/",
     "github": "https://github.com/leandrojj13"
   },
   {
@@ -104,5 +116,108 @@
     "skills": "Python,Odoo,Arduino,Raspberry pi,Hardware",
     "linkedin": "https://www.linkedin.com/in/miguel-hiciano-61883213b/",
     "github": "https://github.com/MikeHiciano"
+  },
+  {
+    "name": "Lewandy Diloné Bonifacio",
+    "initials": "LD",
+    "image": "data/devs-pics/lewandy-dilone.jpeg",
+    "summary": "Passionate about computing science, Supporter of good practices and quality solutions",
+    "skills": "JavaScript (VueJS), C# (.NET CORE), PHP(Laravel)",
+    "linkedin": "https://www.linkedin.com/in/lewandy-dilone-b90849148",
+    "github": "https://github.com/lewandy"
+  },
+  {
+    "name": "Jose Hidalgo",
+    "initials": "JH",
+    "image": "data/devs-pics/jose-hidalgo.jpg",
+    "summary": "Full stack developer who loves to solve problem",
+    "skills": "C#, Javascript, Angular and TSQL",
+    "linkedin": "https://www.linkedin.com/in/jose-hidalgo-rosa/",
+    "github": "https://github.com/JoseAngel1196"
+  },
+  {
+    "name": "Angel Torres",
+    "initials": "AVTO",
+    "image": "https://dummyimage.com/500x500/9c9c9c/fff&text=+",
+    "summary": "A coding Guy who loves to travel and work with friends.",
+    "skills": "ASP.NET, Azure, Vue, RN",
+    "linkedin": "https://www.linkedin.com/in/AVTO",
+    "github": "https://github.com/Avto9711",
+    "twitter": "https://twitter.com/angeliisimo"
+  },
+  {
+    "name": "Albert Eduardo Hidalgo Taveras",
+    "initials": "AEHT",
+    "image": "data/devs-pics/albert-hidalgo.jpg",
+    "summary": "My life is summed up in coding and supermoto",
+    "skills": "PHP (Symfony, Ligne[Own Framework]), Vue, UX",
+    "github": "https://github.com/itsalb3rt",
+    "twitter": "https://twitter.com/itsHivat"
+  },
+  {
+    "name": "José Maldonado Pozo",
+    "initials": "JM",
+    "image": "data/devs-pics/jmaldonado.jpg",
+    "summary": "Backend and Frontend Developer",
+    "skills": "C#,VB.net,C++,PHP,JavaScript, Node.js, CSS",
+    "linkedin": "https://www.linkedin.com/in/jose-maldonado-a5a546130/"
+  },
+  {
+    "name": "Edwardenis De los santos",
+    "initials": "ED",
+    "image": "data/devs-pics/edwardenis.jpg",
+    "summary": "Full-Stack developer that loves to build interesting things and eat pizza.",
+    "skills": "C#, Azure, Cognitive Services, Bot Framework, JS",
+    "linkedin": "https://www.linkedin.com/in/edwardenis-de-los-santos/",
+    "github": "https://github.com/Edwardenis",
+    "twitter":"https://twitter.com/EdwardenisS"
+  },
+  {
+    "name": "Enrique Ortiz",
+    "initials": "EO",
+    "image": "data/devs-pics/enrique-ortiz.jpg",
+    "summary": "Software Engineer that is passionate about metal music, conferences, and algorithms.",
+    "skills": "Python,Django,React,JavaScript,Node.js,CSS,Algorithms",
+    "linkedin": "https://www.linkedin.com/in/enriqueortizpi/",
+    "github": "https://github.com/Evalir",
+    "twitter": "https://twitter.com/hievalir"
+  },
+  {
+    "name": "Enrique Capellán",
+    "initials": "EC",
+    "image": "data/devs-pics/capellan.jpg",
+    "summary": "A guy who like to write some code.",
+    "skills": "C#, Vue.JS, UmbracoCMS",
+    "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
+    "github": "https://github.com/Capellan29",
+    "twitter":"https://twitter.com/enriquecapellan"
+  },
+  {
+    "name": "Angel A Perez",
+    "initials": "AAP",
+    "image": "data/devs-pics/angel-perez.jpg",
+    "summary": "Backend developer always looking for a new challenge.",
+    "skills": "C#, C++ and Node.js",
+    "linkedin": "https://www.linkedin.com/in/angel-perez-severino/",
+    "github": "https://github.com/aperez011",
+    "twitter": "https://twitter.com/ApSeverinol011"
+  },
+  {
+    "name": "Yhorby Matias",
+    "initials": "YM",
+    "image": "data/devs-pics/yhorby-matias.jpeg",
+    "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
+    "skills": "C#,Azure",
+    "linkedin": "https://www.linkedin.com/in/matiashs/",
+    "twitter":"https://twitter.com/yhorbymatias" 
+  },
+  {
+    "name": "Jefri J. Martínez",
+    "initials": "JM",
+    "image": "data/devs-pics/jefri-martinez.jpg",
+    "summary": "A Systems Engineer passionate about Web & Mobile Development.",
+    "skills": "C#, Xamarin.Forms, AngularJS, Python",
+    "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
+    "github": "https://github.com/jefridev"
   }
 ]
