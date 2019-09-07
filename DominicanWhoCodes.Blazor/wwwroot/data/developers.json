@@ -138,7 +138,7 @@
   {
     "name": "Angel Torres",
     "initials": "AVTO",
-    "image": "data/devs-pics/angel-torres.jpg",
+    "image": "https://dummyimage.com/500x500/9c9c9c/fff&text=+",
     "summary": "A coding Guy who loves to travel and work with friends.",
     "skills": "ASP.NET, Azure, Vue, RN",
     "linkedin": "https://www.linkedin.com/in/AVTO",
@@ -186,7 +186,7 @@
     "name": "Enrique Capellán",
     "initials": "EC",
     "image": "data/devs-pics/capellan.jpg",
-    "summary": "A nigga who like to write some code.",
+    "summary": "A guy who like to write some code.",
     "skills": "C#, Vue.JS, UmbracoCMS",
     "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
     "github": "https://github.com/Capellan29",
@@ -201,5 +201,22 @@
     "linkedin": "https://www.linkedin.com/in/angel-perez-severino/",
     "github": "https://github.com/aperez011",
     "twitter": "https://twitter.com/ApSeverinol011"
+  },
+    "name": "Yhorby Matias",
+    "initials": "YM",
+    "image": "data/devs-pics/yhorby-matias.jpeg",
+    "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
+    "skills": "C#,Azure",
+    "linkedin": "https://www.linkedin.com/in/matiashs/",
+    "twitter":"https://twitter.com/yhorbymatias" 
+  },
+  {
+    "name": "Jefri J. Martínez",
+    "initials": "JM",
+    "image": "data/devs-pics/jefri-martinez.jpg",
+    "summary": "A Systems Engineer passionate about Web & Mobile Development.",
+    "skills": "C#, Xamarin.Forms, AngularJS, Python",
+    "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
+    "github": "https://github.com/jefridev"
   }
 ]
