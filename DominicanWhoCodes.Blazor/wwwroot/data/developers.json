@@ -191,5 +191,15 @@
     "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
     "github": "https://github.com/Capellan29",
     "twitter":"https://twitter.com/enriquecapellan"
+  },
+  {
+    "name": "Angel A Perez",
+    "initials": "AAP",
+    "image": "data/devs-pics/angel-perez.jpg",
+    "summary": "Backend developer always looking for a new challenge.",
+    "skills": "C#, C++ and Node.js",
+    "linkedin": "https://www.linkedin.com/in/angel-perez-severino/",
+    "github": "https://github.com/aperez011",
+    "twitter": "https://twitter.com/ApSeverinol011"
   }
 ]
