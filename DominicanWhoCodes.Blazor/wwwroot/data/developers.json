@@ -170,7 +170,7 @@
     "skills": "C#, Azure, Cognitive Services, Bot Framework, JS",
     "linkedin": "https://www.linkedin.com/in/edwardenis-de-los-santos/",
     "github": "https://github.com/Edwardenis",
-    "twitter":"https://twitter.com/EdwardenisS"
+    "twitter": "https://twitter.com/EdwardenisS"
   },
   {
     "name": "Enrique Ortiz",
@@ -190,7 +190,7 @@
     "skills": "C#, Vue.JS, UmbracoCMS",
     "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
     "github": "https://github.com/Capellan29",
-    "twitter":"https://twitter.com/enriquecapellan"
+    "twitter": "https://twitter.com/enriquecapellan"
   },
   {
     "name": "Angel A Perez",
@@ -209,7 +209,7 @@
     "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
     "skills": "C#,Azure",
     "linkedin": "https://www.linkedin.com/in/matiashs/",
-    "twitter":"https://twitter.com/yhorbymatias"
+    "twitter": "https://twitter.com/yhorbymatias"
   },
   {
     "name": "Jefri J. Martínez",
@@ -259,5 +259,15 @@
     "skills": "C#, Xamarin.Forms, MVC, .Net Core, ASP.Net, RESTFul APIs",
     "linkedin": "https://www.linkedin.com/in/steven-checo/",
     "github": "https://github.com/sact1909"
+  },
+  {
+    "name": "Dany Santos",
+    "initials": "DS",
+    "image": "data/devs-pics/dany-santos.jpg",
+    "summary": "Front end developer and Backend with Laravel.",
+    "skills": "Javascript, Vue, React.js, RN, PHP(Laravel)",
+    "linkedin": "https://www.linkedin.com/in/dany-orlando-santos-morel/",
+    "github": "https://github.com/theorlan2",
+    "twitter": "https://twitter.com/thedany_Orlan2"
   }
 ]
