@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
@@ -170,7 +169,7 @@
     "skills": "C#, Azure, Cognitive Services, Bot Framework, JS",
     "linkedin": "https://www.linkedin.com/in/edwardenis-de-los-santos/",
     "github": "https://github.com/Edwardenis",
-    "twitter":"https://twitter.com/EdwardenisS"
+    "twitter": "https://twitter.com/EdwardenisS"
   },
   {
     "name": "Enrique Ortiz",
@@ -190,7 +189,7 @@
     "skills": "C#, Vue.JS, UmbracoCMS",
     "linkedin": "https://www.linkedin.com/in/jose-enrique-capellan-b0940b186/",
     "github": "https://github.com/Capellan29",
-    "twitter":"https://twitter.com/enriquecapellan"
+    "twitter": "https://twitter.com/enriquecapellan"
   },
   {
     "name": "Angel A Perez",
@@ -209,7 +208,7 @@
     "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
     "skills": "C#,Azure",
     "linkedin": "https://www.linkedin.com/in/matiashs/",
-    "twitter":"https://twitter.com/yhorbymatias" 
+    "twitter": "https://twitter.com/yhorbymatias"
   },
   {
     "name": "Jefri J. Martínez",
@@ -219,5 +218,15 @@
     "skills": "C#, Xamarin.Forms, AngularJS, Python",
     "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
     "github": "https://github.com/jefridev"
+  },
+  {
+    "name": "Gregory A. Cabral",
+    "initials": "GC",
+    "image": "data/devs-pics/gregory-cabral.jpg",
+    "summary": "An mobile,web developer that really loves to learn new things",
+    "skills": "C#, Xamarin.Forms,Xamarin.Android,Angular7,Flutter,Firebase,NodeJs",
+    "linkedin": "https://www.linkedin.com/in/gregory-alexander-cabral-de-los-santos-79835614b",
+    "github": "https://github.com/Gr3gorywolf",
+    "webpage": "https://gr3gorywolf.github.io/Resume/"
   }
 ]
