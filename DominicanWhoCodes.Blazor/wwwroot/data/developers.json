@@ -230,5 +230,15 @@
     "github": "https://github.com/eleazar0425",
     "twitter":"https://twitter.com/eleazar0425",
     "webpage": "https://eleazar0425.github.io"
+  },{
+    "name":"Jefry Pozo",
+    "initials": "JP",
+    "image":"data/devs-pics/jefry-pozo.jpg",
+    "summary":".NET Desktop and Web developer and Visual Studio Extension developer.",
+    "skills":".NET, C#, WPF, ASP.NET,.NET Core, Javascript",
+    "linkedin":"https://www.linkedin.com/in/jefry-pozo/",
+    "github":"https://github.com/jpozo20",
+    "twitter":"https://twitter.com/jefrypozo",
+    "webpage":"https://jefrypozo.com"
   }
 ]
