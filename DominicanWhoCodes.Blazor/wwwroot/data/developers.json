@@ -219,5 +219,16 @@
     "skills": "C#, Xamarin.Forms, AngularJS, Python",
     "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
     "github": "https://github.com/jefridev"
+  },
+  {
+    "name": "Eleazar Estrella",
+    "initials": "EE",
+    "image": "data/devs-pics/eleazar-estrella.jpeg",
+    "summary": "A Mobile developer who loves Swift, rock music and programming books",
+    "skills": "Swift, Java, Kotlin, iOS, Android",
+    "linkedin": "https://www.linkedin.com/in/eleazar0425/",
+    "github": "https://github.com/eleazar0425",
+    "twitter":"https://twitter.com/eleazar0425",
+    "webpage": "https://eleazar0425.github.io"
   }
 ]
