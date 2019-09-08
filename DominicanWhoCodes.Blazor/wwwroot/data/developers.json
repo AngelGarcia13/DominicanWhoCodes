@@ -269,5 +269,15 @@
     "linkedin": "https://www.linkedin.com/in/dany-orlando-santos-morel/",
     "github": "https://github.com/theorlan2",
     "twitter": "https://twitter.com/thedany_Orlan2"
+  },
+  {
+    "name": "Gregory A. Cabral",
+    "initials": "GC",
+    "image": "data/devs-pics/gregory-cabral.jpg",
+    "summary": "An mobile,web developer that really loves to learn new things",
+    "skills": "C#, Xamarin.Forms,Xamarin.Android,Angular7,Flutter,Firebase,NodeJs",
+    "linkedin": "https://www.linkedin.com/in/gregory-alexander-cabral-de-los-santos-79835614b",
+    "github": "https://github.com/Gr3gorywolf",
+    "webpage": "https://gr3gorywolf.github.io/Resume/"
   }
 ]
