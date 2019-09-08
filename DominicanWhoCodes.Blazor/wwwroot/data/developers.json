@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
@@ -218,6 +219,56 @@
     "skills": "C#, Xamarin.Forms, AngularJS, Python",
     "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
     "github": "https://github.com/jefridev"
+  },
+  {
+    "name": "Eleazar Estrella",
+    "initials": "EE",
+    "image": "data/devs-pics/eleazar-estrella.jpeg",
+    "summary": "A Mobile developer who loves Swift, rock music and programming books",
+    "skills": "Swift, Java, Kotlin, iOS, Android",
+    "linkedin": "https://www.linkedin.com/in/eleazar0425/",
+    "github": "https://github.com/eleazar0425",
+    "twitter":"https://twitter.com/eleazar0425",
+    "webpage": "https://eleazar0425.github.io"
+  },
+  {
+    "name":"Jefry Pozo",
+    "initials": "JP",
+    "image":"data/devs-pics/jefry-pozo.jpg",
+    "summary":".NET Desktop and Web developer and Visual Studio Extension developer.",
+    "skills":".NET, C#, WPF, ASP.NET,.NET Core, Javascript",
+    "linkedin":"https://www.linkedin.com/in/jefry-pozo/",
+    "github":"https://github.com/jpozo20",
+    "twitter":"https://twitter.com/jefrypozo",
+    "webpage":"https://jefrypozo.com"
+  },
+  {
+    "name": "Carlos Herasme",
+    "initials": "CH",
+    "image": "data/devs-pics/carlos-herasme.jpg",
+    "summary": "A .NET developer who loves to build great software applications.",
+    "skills": "C#,ASP.NET,Telerik",
+    "linkedin": "https://www.linkedin.com/in/roberto-carlos-herasme-estrada/",
+    "github": "https://github.com/carlos-herasme"
+  },
+  {
+    "name": "Steven A. Checo",
+    "initials": "SC",
+    "image": "data/devs-pics/steven-checo.jpg",
+    "summary": "C# ASP.Net Developer, I'd preferd back-end but I get along with the Front-End, I love help others with code and build new things with friends, I ♥ C#",
+    "skills": "C#, Xamarin.Forms, MVC, .Net Core, ASP.Net, RESTFul APIs",
+    "linkedin": "https://www.linkedin.com/in/steven-checo/",
+    "github": "https://github.com/sact1909"
+  },
+  {
+    "name": "Dany Santos",
+    "initials": "DS",
+    "image": "data/devs-pics/dany-santos.jpg",
+    "summary": "Front end developer and Backend with Laravel.",
+    "skills": "Javascript, Vue, React.js, RN, PHP(Laravel)",
+    "linkedin": "https://www.linkedin.com/in/dany-orlando-santos-morel/",
+    "github": "https://github.com/theorlan2",
+    "twitter": "https://twitter.com/thedany_Orlan2"
   },
   {
     "name": "Gregory A. Cabral",
