@@ -209,7 +209,7 @@
     "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
     "skills": "C#,Azure",
     "linkedin": "https://www.linkedin.com/in/matiashs/",
-    "twitter":"https://twitter.com/yhorbymatias"
+    "twitter":"https://twitter.com/yhorbymatias" 
   },
   {
     "name": "Jefri J. Martínez",
@@ -219,14 +219,5 @@
     "skills": "C#, Xamarin.Forms, AngularJS, Python",
     "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
     "github": "https://github.com/jefridev"
-  },
-  {
-    "name": "Carlos Herasme",
-    "initials": "CH",
-    "image": "data/devs-pics/carlos-herasme.jpg",
-    "summary": "A .NET developer who loves to build great software applications.",
-    "skills": "C#,ASP.NET,Telerik",
-    "linkedin": "https://www.linkedin.com/in/roberto-carlos-herasme-estrada/",
-    "github": "https://github.com/carlos-herasme"
   }
 ]
