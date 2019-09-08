@@ -250,5 +250,14 @@
     "skills": "C#,ASP.NET,Telerik",
     "linkedin": "https://www.linkedin.com/in/roberto-carlos-herasme-estrada/",
     "github": "https://github.com/carlos-herasme"
+  },
+  {
+    "name": "Steven A. Checo",
+    "initials": "SC",
+    "image": "data/devs-pics/steven-checo.jpg",
+    "summary": "C# ASP.Net Developer, I'd preferd back-end but I get along with the Front-End, I love help others with code and build new things with friends, I ♥ C#",
+    "skills": "C#, Xamarin.Forms, MVC, .Net Core, ASP.Net, RESTFul APIs",
+    "linkedin": "https://www.linkedin.com/in/steven-checo/",
+    "github": "https://github.com/sact1909"
   }
 ]
