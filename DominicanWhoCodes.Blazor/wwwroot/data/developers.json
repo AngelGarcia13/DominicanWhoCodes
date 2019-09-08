@@ -209,7 +209,7 @@
     "summary": "MSFT Developer Technologies, Azure DevOps, 🧙‍♂️ available for contracts",
     "skills": "C#,Azure",
     "linkedin": "https://www.linkedin.com/in/matiashs/",
-    "twitter":"https://twitter.com/yhorbymatias" 
+    "twitter":"https://twitter.com/yhorbymatias"
   },
   {
     "name": "Jefri J. Martínez",
@@ -219,6 +219,37 @@
     "skills": "C#, Xamarin.Forms, AngularJS, Python",
     "linkedin": "https://www.linkedin.com/in/jefrimartinez/",
     "github": "https://github.com/jefridev"
+  },
+  {
+    "name": "Eleazar Estrella",
+    "initials": "EE",
+    "image": "data/devs-pics/eleazar-estrella.jpeg",
+    "summary": "A Mobile developer who loves Swift, rock music and programming books",
+    "skills": "Swift, Java, Kotlin, iOS, Android",
+    "linkedin": "https://www.linkedin.com/in/eleazar0425/",
+    "github": "https://github.com/eleazar0425",
+    "twitter":"https://twitter.com/eleazar0425",
+    "webpage": "https://eleazar0425.github.io"
+  },
+  {
+    "name":"Jefry Pozo",
+    "initials": "JP",
+    "image":"data/devs-pics/jefry-pozo.jpg",
+    "summary":".NET Desktop and Web developer and Visual Studio Extension developer.",
+    "skills":".NET, C#, WPF, ASP.NET,.NET Core, Javascript",
+    "linkedin":"https://www.linkedin.com/in/jefry-pozo/",
+    "github":"https://github.com/jpozo20",
+    "twitter":"https://twitter.com/jefrypozo",
+    "webpage":"https://jefrypozo.com"
+  },
+  {
+    "name": "Carlos Herasme",
+    "initials": "CH",
+    "image": "data/devs-pics/carlos-herasme.jpg",
+    "summary": "A .NET developer who loves to build great software applications.",
+    "skills": "C#,ASP.NET,Telerik",
+    "linkedin": "https://www.linkedin.com/in/roberto-carlos-herasme-estrada/",
+    "github": "https://github.com/carlos-herasme"
   },
   {
     "name": "Steven A. Checo",
