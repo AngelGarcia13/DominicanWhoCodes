@@ -307,6 +307,7 @@
     "skills": "JavaScript, Vue, React, NodeJs, Laravel, Phalcon",
     "linkedin": "https://www.linkedin.com/in/dannyfeliz",
     "github": "https://github.com/dannyfeliz",
+    "twitter": "https://twitter.com/dannyfeliz08",
     "webpage": "http://dannyfeliz.com"
   },
   {
@@ -317,6 +318,16 @@
     "skills": ".NET, Javascript",
     "linkedin": "https://www.linkedin.com/in/leonelsantiago/",
     "github": "https://github.com/LeonelSantiago"
+  },
+  {
+    "name": "Robert F. Marcelino Camilo",
+    "initials": "RM",
+    "image": "https://www.robertmarcelino.com/images/profile-img.jpg",
+    "summary": "Code, cook and eat",
+    "skills": "Ruby on Rails, Python, .NET, Javascript",
+    "linkedin": "https://www.linkedin.com/in/robert-marcelino/",
+    "github": "https://github.com/Marcelino056",
+    "webpage": "https://robertmarcelino.com"
   },
   {
     "name": "José M. Segura Polanco",
