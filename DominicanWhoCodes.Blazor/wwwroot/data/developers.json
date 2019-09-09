@@ -317,5 +317,15 @@
     "skills": ".NET, Javascript",
     "linkedin": "https://www.linkedin.com/in/leonelsantiago/",
     "github": "https://github.com/LeonelSantiago"
+  },
+  {
+    "name": "Robert F. Marcelino Camilo",
+    "initials": "RM",
+    "image": "https://www.robertmarcelino.com/images/profile-img.jpg",
+    "summary": "Code, cook and eat",
+    "skills": "Ruby on Rails, Python, .NET, Javascript",
+    "linkedin": "https://www.linkedin.com/in/robert-marcelino/",
+    "github": "https://github.com/Marcelino056",
+    "webpage": "https://robertmarcelino.com"
   }
 ]
