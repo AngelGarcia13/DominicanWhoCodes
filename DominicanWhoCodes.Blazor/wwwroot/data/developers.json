@@ -289,5 +289,14 @@
     "linkedin": "https://www.linkedin.com/in/cristophervivieca/",
     "github": "https://github.com/cvivieca",
     "twitter":"https://twitter.com/cvivieca"
+  },
+  {
+    "name": "Leonel A. Santiago Báez",
+    "initials": "LS",
+    "image": "data/devs-pics/c-vivieca.jpeg",
+    "summary": "Just a programmer trying everyday to impact people's lives.",
+    "skills": ".NET, Javascript",
+    "linkedin": "https://www.linkedin.com/in/leonelsantiago/",
+    "github": "https://github.com/LeonelSantiago"
   }
 ]
