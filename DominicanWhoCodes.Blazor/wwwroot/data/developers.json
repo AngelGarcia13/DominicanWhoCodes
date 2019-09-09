@@ -163,6 +163,15 @@
     "linkedin": "https://www.linkedin.com/in/jose-maldonado-a5a546130/"
   },
   {
+    "name": "Ángel Reyes",
+    "initials": "AR",
+    "image": "data/devs-pics/angel-reyes.jpg",
+    "summary": "Dev who loves to work with friends",
+    "skills": "C#, TS, TSQL",
+    "linkedin": "https://www.linkedin.com/in/angel-reyes-espinal-357884184/",
+    "github": "https://github.com/AngelReyesEspinal"
+  },
+  {
     "name": "Edwardenis De los santos",
     "initials": "ED",
     "image": "data/devs-pics/edwardenis.jpg",
