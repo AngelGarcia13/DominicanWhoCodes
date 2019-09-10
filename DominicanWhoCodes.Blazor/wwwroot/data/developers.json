@@ -313,7 +313,7 @@
   {
     "name": "Leonel A. Santiago Báez",
     "initials": "LS",
-    "image": "data/devs-pics/c-vivieca.jpeg",
+    "image": "data/devs-pics/leonel-santiago.jpg",
     "summary": "Just a programmer trying everyday to impact people's lives.",
     "skills": ".NET, Javascript",
     "linkedin": "https://www.linkedin.com/in/leonelsantiago/",
@@ -328,6 +328,15 @@
     "linkedin": "https://www.linkedin.com/in/robert-marcelino/",
     "github": "https://github.com/Marcelino056",
     "webpage": "https://robertmarcelino.com"
+  },
+  {
+    "name": "Enrique Uvinas Rodriguez",
+    "initials": "EUR",
+    "image": "data/devs-pics/enrique-uvinas.jpg",
+    "summary": "Started as a Full-Stack Javascript Developer but having a lot of fun with Ruby on Rails working at Resolve Digital.",
+    "skills": "JavaScript, NodeJS, VueJS, Ruby On Rails",
+    "linkedin": "https://do.linkedin.com/in/enrique-uvi%C3%B1as-rodriguez-18ab10103",
+    "github": "https://github.com/icodeat9"
   },
   {
     "name": "Cristopher Ortega",
