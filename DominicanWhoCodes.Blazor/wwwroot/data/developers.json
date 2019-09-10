@@ -365,5 +365,15 @@
     "skills": "Python, Javascript, Nodejs, Elixir, AWS",
     "linkedin": "https://www.linkedin.com/in/jos%C3%A9-miguel-segura-polanco-792298187/",
     "github": "https://github.com/DarkCode01" 
+  },
+  {
+    "name": "Francis Goris Payano",
+    "initials": "FGP",
+    "image": "data/devs-pics/francis-goris-payano.jpg",
+    "summary": "Web Developer who loves to code & play Video Games!",
+    "skills": "PHP, Laravel Framework, Javascript & Vue",
+    "linkedin": "https://www.linkedin.com/in/fgpayano/",
+    "github": "https://github.com/fgpayano",
+    "webpage": "http://forgeek.net"
   }
 ]
