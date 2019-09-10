@@ -375,5 +375,15 @@
     "linkedin": "https://www.linkedin.com/in/fgpayano/",
     "github": "https://github.com/fgpayano",
     "webpage": "http://forgeek.net"
+  },
+  {
+    "name": "Starling Germosen Reynoso",
+    "initials": "sG",
+    "image": "https://1.bp.blogspot.com/-Hwa1atOFM2c/W48C3pwTvhI/AAAAAAAAFf8/X7I1u-EEMy0HSnK5RWww_kgwRlAFvSXeQCLcBGAs/s1600/23745678.jpg",
+    "summary": "Software Engineer, Backend Developer & Teacher, Bike and Brain Games lover :D",
+    "skills": "ASP.NET (C# + VB), Xamarin.Forms, Azure, Copywriting, Wordpress (with SEO)",
+    "linkedin": "https://www.linkedin.com/in/sgrysoft",
+    "github": "https://github.com/sgermosen",
+    "webpage": "https://sgermosen.com"
   }
 ]
