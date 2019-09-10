@@ -385,5 +385,16 @@
     "linkedin": "https://www.linkedin.com/in/sgrysoft",
     "github": "https://github.com/sgermosen",
     "webpage": "https://sgermosen.com"
+  },
+  {
+    "name": "Raul Montero",
+    "initials": "RM",
+    "image": "https://raulmonteroc.com/wp-content/uploads/2019/07/f5f2ebfc-bf63-4384-b583-ee4bebd2843f-e1563668563389.jpg",
+    "summary": "Senior Mobile Developer",
+    "skills": "C#,Xamarin, Xamarin.Forms, Android, iOS, Appcenter",
+    "linkedin": "https://www.linkedin.com/in/raulmonteroc/",
+    "github": "https://github.com/RaulMonteroC",
+    "twitter": "https://twitter.com/raulmonteroc",
+    "webpage": "http://raulmonteroc.com"
   }
 ]
