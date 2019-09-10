@@ -328,5 +328,15 @@
     "linkedin": "https://www.linkedin.com/in/robert-marcelino/",
     "github": "https://github.com/Marcelino056",
     "webpage": "https://robertmarcelino.com"
+  },
+  {
+    "name": "Francis Goris Payano",
+    "initials": "FGP",
+    "image": "data/devs-pics/francis-goris-payano.jpg",
+    "summary": "Web Developer who loves to code & play Video Games!",
+    "skills": "PHP, Laravel Framework, Javascript & Vue",
+    "linkedin": "https://www.linkedin.com/in/fgpayano/",
+    "github": "https://github.com/fgpayano",
+    "webpage": "http://forgeek.net"
   }
 ]
