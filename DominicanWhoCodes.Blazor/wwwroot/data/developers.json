@@ -346,5 +346,15 @@
     "skills": "Python, Docker, AWS, .NET",
     "linkedin": "https://www.linkedin.com/in/crisog/",
     "github": "https://github.com/crisog"
+  },
+  {
+    "name": "Carlos A. González C.",
+    "initials": "CG",
+    "image": "data/devs-pics/carlos-gonzalez.jpg",
+    "summary": "Software Engineer focused on one goal, to save my city (just kidding, focused on perfection).",
+    "skills": "C#,Node.JS,ReactJS,ASP.NET MVC",
+    "linkedin": "https://www.linkedin.com/in/cagonzalezc/",
+    "github": "https://github.com/carlos0202",
+    "twitter": "https://twitter.com/carlosagc02"
   }
 ]
