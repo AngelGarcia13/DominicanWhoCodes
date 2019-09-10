@@ -356,5 +356,14 @@
     "linkedin": "https://www.linkedin.com/in/cagonzalezc/",
     "github": "https://github.com/carlos0202",
     "twitter": "https://twitter.com/carlosagc02"
+  },
+  {
+    "name": "José M. Segura Polanco",
+    "initials": "JS",
+    "image": "data/devs-pics/jose-segura.jpg",
+    "summary": "I'm just a simple boy that lover new technologies...",
+    "skills": "Python, Javascript, Nodejs, Elixir, AWS",
+    "linkedin": "https://www.linkedin.com/in/jos%C3%A9-miguel-segura-polanco-792298187/",
+    "github": "https://github.com/DarkCode01" 
   }
 ]
