@@ -1,179 +1,180 @@
-﻿body{
-    background-color: #f5f6fa;
-    color: #343a40;
+﻿body {
+  background-color: #f5f6fa;
+  color: #343a40;
 }
-.navbar-toggler, .navbar-toggler:focus, .navbar-toggler:active {
-    outline: none;
-    box-shadow: none;
-    border-color: transparent !important;
-    background-color: transparent !important;
-  }
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active {
+  outline: none;
+  box-shadow: none;
+  border-color: transparent !important;
+  background-color: transparent !important;
+}
 .card {
-    border-radius: .90rem;
-    box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, .03);
-    -webkit-transition: transform .8s ease-out;
-    transition: transform .8s ease-out;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, 0.03);
+  -webkit-transition: transform 375ms ease-in-out, box-shadow 375ms ease-out;
+  transition: transform 375ms ease-in-out, box-shadow 375ms ease-out;
 }
 .card:hover {
-    transform: scale(1.1);
-    z-index: 1000;
-    background-color: #fff;
-    box-shadow: 0 0 5px rgba(0, 0, 0, .3);
-
+  transform: scale(1.05);
+  z-index: 1000;
+  background-color: #fff;
+  box-shadow: 0 0 20px -2px rgba(0, 0, 0, 0.3);
 }
 .card-img-top {
-    border-top-left-radius: calc(.90rem - 1px);
-    border-top-right-radius: calc(.90rem - 1px);
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
-    transition: all 0.5s ease-out;
-    width: 100%;
-    height: 15vw;
-    object-fit: cover;
-    object-position: 0 -10px;
+  border-top-left-radius: calc(0.5rem - 1px);
+  border-top-right-radius: calc(0.5rem - 1px);
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  transition: all 375ms ease-in-out;
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  object-position: 0 -10px;
 }
 .card:hover .card-img-top {
-    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(0%);
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
 }
 
 .avatar-sm {
-    width: 2.4375rem;
-    height: 2.4375rem;
-    font-size: .75rem;
-    border-radius: .2rem;
+  width: 2.4375rem;
+  height: 2.4375rem;
+  font-size: 0.75rem;
+  border-radius: 0.2rem;
 }
 .avatar {
-    position: relative;
-    color: #fff;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    vertical-align: middle;
-    font-size: 1rem;
-    font-weight: 600;
-    height: 3.125rem;
-    width: 3.125rem;
-    border-radius: .375rem;
+  position: relative;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  font-size: 1rem;
+  font-weight: 600;
+  height: 3.125rem;
+  width: 3.125rem;
+  border-radius: 0.375rem;
 }
 .badge-pill {
-    padding: 6px;
+  padding: 6px;
 }
 .info-space {
-    margin-bottom:3px; 
+  margin-bottom: 3px;
 }
 .description-space {
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    overflow: hidden;
-    scrollbar-width: thin;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  scrollbar-width: thin;
 }
-.social-networks{
-    font-size: x-large;
+.social-networks {
+  font-size: x-large;
 }
 
 /*@juanchinovas*/
 
 #splash-screen {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding-top: 35vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 35vh;
 }
 
 #pulse-animation {
-    position: relative;
-    width: 100px;
-    height: 100px;
-    opacity: 0;
-    border: 1.5rem solid #444444;
-    border-radius: 50%;
-    animation: pulsate 1s ease-out;
-    animation-iteration-count: infinite;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  opacity: 0;
+  border: 1.5rem solid #444444;
+  border-radius: 50%;
+  animation: pulsate 1s ease-out;
+  animation-iteration-count: infinite;
 }
 
 span#app-name {
-    font-size: 1.5rem;
-    font-weight: bold;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 @keyframes pulsate {
-    0% {
-        transform: scale(.2);
-        opacity: 0;
-    }
-    50% {
-        opacity: 1;
-    }
-    100% {
-        transform: scale(1.5);
-        opacity: 0;
-    }
+  0% {
+    transform: scale(0.2);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
 }
 #info-skills .info-space .badge {
-    margin: 0 2px;
+  margin: 0 2px;
 }
 #info-skills {
-    margin: .3rem 0;
-    height: 35px;
-    overflow: hidden;
+  margin: 0.3rem 0;
+  height: 35px;
+  overflow: hidden;
 }
 
 #info-skills .info-space {
-    display: flex;
-    overflow: hidden;
-    scrollbar-width: thin;
-    padding: .2rem;
+  display: flex;
+  overflow: hidden;
+  scrollbar-width: thin;
+  padding: 0.2rem;
 }
 
 .description-space:hover,
 #info-skills .info-space:hover {
-    overflow: auto;
+  overflow: auto;
 }
 
 .description-space::-webkit-scrollbar,
 #info-skills .info-space::-webkit-scrollbar {
-    height: 4px;
-    width: 4px;
+  height: 4px;
+  width: 4px;
 }
 .description-space::-webkit-scrollbar-track,
 #info-skills .info-space::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-    border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
 }
-.description-space::-webkit-scrollbar-thumb, 
+.description-space::-webkit-scrollbar-thumb,
 #info-skills .info-space::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
 }
 
 .description-space p {
-    margin: 0;
+  margin: 0;
 }
 
 .em {
-    height: 1.5em;
-    width: 1.5em;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
-    vertical-align: middle
+  height: 1.5em;
+  width: 1.5em;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .em-flag-do {
-    background-image: url("https://twemoji.maxcdn.com/2/72x72/1f1e9-1f1f4.png")
+  background-image: url("https://twemoji.maxcdn.com/2/72x72/1f1e9-1f1f4.png");
 }
 
 .em-heart {
-    background-image: url("https://twemoji.maxcdn.com/2/72x72/2764.png")
+  background-image: url("https://twemoji.maxcdn.com/2/72x72/2764.png");
 }
 
 @media only screen and (max-width: 600px) {
-    .card-img-top {
-        height: 80vw;
-    }
-} 
+  .card-img-top {
+    height: 80vw;
+  }
+}
