@@ -427,5 +427,14 @@
     "linkedin": "https://www.linkedin.com/in/evaldez89/",
     "github": "https://github.com/evaldez89",
     "twitter": "https://twitter.com/evaldez89"
+  },
+  {
+    "name": "Freilyn Tavárez",
+    "initials": "FT",
+    "image": "data/devs-pics/freilynstr.jpg",
+    "summary": "Junior Web Developer",
+    "skills": "C#, Angular, Vue",
+    "linkedin": "https://www.linkedin.com/in/freilynstr/",
+    "github": "https://github.com/Freilynstr"
   }
 ]
