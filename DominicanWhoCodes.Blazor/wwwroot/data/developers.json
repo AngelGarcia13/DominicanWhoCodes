@@ -396,5 +396,14 @@
     "github": "https://github.com/RaulMonteroC",
     "twitter": "https://twitter.com/raulmonteroc",
     "webpage": "http://raulmonteroc.com"
+  },
+  {
+    "name": "Freilyn Tavárez",
+    "initials": "FT",
+    "image": "data/devs-pics/freilynstr.jpg",
+    "summary": "Junior Web Developer",
+    "skills": "C#, Angular, Vue",
+    "linkedin": "https://www.linkedin.com/in/freilynstr/",
+    "github": "https://github.com/Freilynstr"
   }
 ]
