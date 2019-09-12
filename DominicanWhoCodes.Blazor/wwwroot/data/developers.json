@@ -417,5 +417,15 @@
     "linkedin": "https://www.linkedin.com/in/eddy-cordero-bb7393105/",
     "github": "https://github.com/eddycordero",
     "twitter": "https://twitter.com/eddycorderol"
+  },
+  {
+    "name": "Emmanuel Valdez",
+    "initials": "EEVB",
+    "image": "data/devs-pics/evaldez89.jpg",
+    "summary": "I'm one of those guys that loves when the IDE has nothing to say about my code",
+    "skills": "Python, Odoo, Django, Ionic, C#",
+    "linkedin": "https://www.linkedin.com/in/evaldez89/",
+    "github": "https://github.com/evaldez89",
+    "twitter": "https://twitter.com/evaldez89"
   }
 ]
