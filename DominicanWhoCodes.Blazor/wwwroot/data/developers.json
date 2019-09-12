@@ -36,6 +36,17 @@
     "github": "https://github.com/dionnyprensa"
   },
   {
+    "name": "Giancarlos Castillo",
+    "initials": "GC",
+    "image": "https://avatars3.githubusercontent.com/u/6842883?v=4",
+    "summary": "Web developer with 4 years of experience. In love with Functional Programming",
+    "skills": "JavaScript, Node, CSS",
+    "linkedin": "https://www.linkedin.com/in/gco-c/",
+    "github": "https://github.com/giancastle",
+    "twitter": "https://twitter.com/giancastle",
+    "webpage": "https://giancastle.github.io"
+  },
+  {
     "name": "Raymond Coplin",
     "initials": "RC",
     "image": "data/devs-pics/raymond-coplin.jpg",
@@ -150,7 +161,7 @@
     "initials": "AEHT",
     "image": "data/devs-pics/albert-hidalgo.jpg",
     "summary": "My life is summed up in coding and supermoto",
-    "skills": "PHP (Symfony, Ligne[Own Framework]), Vue, UX",
+    "skills": "PHP, JavasScript, Vue",
     "github": "https://github.com/itsalb3rt",
     "twitter": "https://twitter.com/itsHivat"
   },
@@ -396,6 +407,26 @@
     "github": "https://github.com/RaulMonteroC",
     "twitter": "https://twitter.com/raulmonteroc",
     "webpage": "http://raulmonteroc.com"
+  },
+  {
+    "name": "Eddy Cordero",
+    "initials": "EC",
+    "image": "data/devs-pics/eddy-cordero.jpg",
+    "summary": "A Web Developer who loves to code, read and learn new things",
+    "skills": "C#, JavaScript, React, Asp.Net",
+    "linkedin": "https://www.linkedin.com/in/eddy-cordero-bb7393105/",
+    "github": "https://github.com/eddycordero",
+    "twitter": "https://twitter.com/eddycorderol"
+  },
+  {
+    "name": "Emmanuel Valdez",
+    "initials": "EEVB",
+    "image": "data/devs-pics/evaldez89.jpg",
+    "summary": "I'm one of those guys that loves when the IDE has nothing to say about my code",
+    "skills": "Python, Odoo, Django, Ionic, C#",
+    "linkedin": "https://www.linkedin.com/in/evaldez89/",
+    "github": "https://github.com/evaldez89",
+    "twitter": "https://twitter.com/evaldez89"
   },
   {
     "name": "Freilyn Tavárez",
