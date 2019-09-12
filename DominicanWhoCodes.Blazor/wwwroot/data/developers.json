@@ -36,6 +36,17 @@
     "github": "https://github.com/dionnyprensa"
   },
   {
+    "name": "Giancarlos Castillo",
+    "initials": "GC",
+    "image": "https://avatars3.githubusercontent.com/u/6842883?v=4",
+    "summary": "Web developer with 4 years of experience. In love with Functional Programming",
+    "skills": "JavaScript, Node, CSS",
+    "linkedin": "https://www.linkedin.com/in/gco-c/",
+    "github": "https://github.com/giancastle",
+    "twitter": "https://twitter.com/giancastle",
+    "webpage": "https://giancastle.github.io"
+  },
+  {
     "name": "Raymond Coplin",
     "initials": "RC",
     "image": "data/devs-pics/raymond-coplin.jpg",
