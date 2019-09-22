@@ -436,5 +436,15 @@
     "skills": "C#, Angular, Vue",
     "linkedin": "https://www.linkedin.com/in/freilynstr/",
     "github": "https://github.com/Freilynstr"
+  },
+  {
+    "name": "Jearel Alcántara Febrier",
+    "initials": "JAF",
+    "image": "https://avatars2.githubusercontent.com/u/424073?s=460&v=4",
+    "summary": "Backend Python Dev, IT Architect, Docker/Kubernetes practitioner. A nice guy, really!",
+    "skills": "Python, Starlette, Django, Openshift, Kubernetes, Docker",
+    "linkedin": "https://www.linkedin.com/in/jeasoft/",
+    "github": "https://github.com/jeasoft",
+    "twitter": "https://twitter.com/jeasoft"
   }
 ]
