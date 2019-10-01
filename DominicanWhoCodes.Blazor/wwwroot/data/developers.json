@@ -446,5 +446,15 @@
     "linkedin": "https://www.linkedin.com/in/jeasoft/",
     "github": "https://github.com/jeasoft",
     "twitter": "https://twitter.com/jeasoft"
+  } ,
+  {
+    "name": "Juan Carlos Ozoria",
+    "initials": "JCO",
+    "image": "https://avatars1.githubusercontent.com/u/1891211?s=460&v=4",
+    "summary": "Software Engineer, Backend Developer and Sometimes FrontEnd, always learning and excited about tech.",
+    "skills": "C#,VB.net,ASP.NET,JavaScript,CSS",
+    "linkedin": "https://www.linkedin.com/in/jcozoria/",
+    "github": "https://github.com/juanozoria",
+    "twitter": "https://twitter.com/jcozoria"
   }
 ]
