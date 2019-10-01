@@ -446,5 +446,15 @@
     "linkedin": "https://www.linkedin.com/in/jeasoft/",
     "github": "https://github.com/jeasoft",
     "twitter": "https://twitter.com/jeasoft"
+  },
+  {
+    "name": "Juan Ramon Montilla Sanchez",
+    "initials": "JRMS",
+    "image": "data/devs-pics/JRMS.jpg",
+    "summary": "I work as a software developer since 2000 in web technology, but now I am currently selling software of my own or other programmers, helping to pass the projects from your desktop to customers.",
+    "skills": "Entrepreneur, Sell software, ASP.Net, JavaScript, MVC.net, C#, Vb.net, Docker, Scrum, Agil",
+    "linkedin": "https://www.linkedin.com/in/juanmontilla/",
+    "github": "https://github.com/juanmaster",
+    "twitter": "https://twitter.com/JuanMaster"
   }
 ]
