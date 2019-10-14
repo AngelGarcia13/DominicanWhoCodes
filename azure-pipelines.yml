@@ -17,7 +17,7 @@ steps:
   displayName: 'Installing .NET Core SDK...'
   inputs:
     version: 3.0.100
-- script: dotnet build --configuration $(buildConfiguration) DominicanWhoCodes.Blazor/DominicanWhoCodes.csproj
+- script: dotnet build --configuration $(buildConfiguration) DWC.Blazor/DWC.Blazor.csproj
   displayName: 'dotnet build $(buildConfiguration)'
 - task: DotNetCoreCLI@2
   displayName: 'Publishing App...'
