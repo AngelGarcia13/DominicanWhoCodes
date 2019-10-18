@@ -457,7 +457,7 @@
     "github": "https://github.com/juanozoria",
     "twitter": "https://twitter.com/jcozoria"
   },
-    {
+  {
     "name": "Sebastian Perez Martinez",
     "initials": "SPM",
     "image": "https://avatars2.githubusercontent.com/u/26904782?s=460&v=4",
@@ -465,5 +465,15 @@
     "skills": "React,React Native,koa,Express,mongoDb,MySql,Styled Components,Software Architecture",
     "linkedin": "https://www.linkedin.com/in/sebastian-perez-martinez-9a4492115/",
     "github": "https://github.com/sperezm97",
+  },
+  {
+    "name": "Dionicio Diaz Adames",
+    "initials": "DDA",
+    "image": "https://avatars1.githubusercontent.com/u/26011982?s=460&v=4",
+    "summary": "FrontEnd Developer and Sometimes Gamer, always learning and excited about tech.",
+    "skills": "JavaScript, VueJS, ReactJS, React Native, Oracle SQL, Scrum",
+    "linkedin": "https://www.linkedin.com/in/dioniciodiaz1/",
+    "github": "https://github.com/djlocoja",
+    "twitter": "https://twitter.com/dioniciodiaz1"
   }
 ]
