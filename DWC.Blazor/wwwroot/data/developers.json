@@ -456,5 +456,14 @@
     "linkedin": "https://www.linkedin.com/in/jcozoria/",
     "github": "https://github.com/juanozoria",
     "twitter": "https://twitter.com/jcozoria"
+  },
+    {
+    "name": "Sebastian Perez Martinez",
+    "initials": "SPM",
+    "image": "https://avatars2.githubusercontent.com/u/26904782?s=460&v=4",
+    "summary": "Mid Full Stack Mobile Developer oriented to Serverless Architecture",
+    "skills": "React,React Native,koa,Express,mongoDb,MySql,Styled Components,Software Architecture",
+    "linkedin": "https://www.linkedin.com/in/sebastian-perez-martinez-9a4492115/",
+    "github": "https://github.com/sperezm97",
   }
 ]
