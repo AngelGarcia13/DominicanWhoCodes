@@ -479,9 +479,9 @@
   {
     "name": "Jesus Manuel Gilbert Castro",
     "initials": "JMGC",
-    "image": "https://avatars2.githubusercontent.com/u/4220737?s=460&v=4",
+    "image":  "data/devs-pics/jgilbertcastro.jpg",
     "summary": "Full Stack Developer: Web-Mobile-VideoGames.",
-    "skills": ".Net(C#,ASP.NET,MSSQL),JS(Vue,React),Godot,Unity",
+    "skills":  "C#,VUE,REACT,GODOT,UNITY,NO/SQL",
     "linkedin": "https://www.linkedin.com/in/jesus-manuel-gilbert-castro-7bb89625/",
     "github": "https://github.com/jgilbertcastro",
     "twitter": "https://twitter.com/jmgilbertc"
