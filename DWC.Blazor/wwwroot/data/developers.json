@@ -446,7 +446,7 @@
     "linkedin": "https://www.linkedin.com/in/jeasoft/",
     "github": "https://github.com/jeasoft",
     "twitter": "https://twitter.com/jeasoft"
-  } ,
+  },
   {
     "name": "Juan Carlos Ozoria",
     "initials": "JCO",
@@ -456,6 +456,16 @@
     "linkedin": "https://www.linkedin.com/in/jcozoria/",
     "github": "https://github.com/juanozoria",
     "twitter": "https://twitter.com/jcozoria"
+  },
+  {
+    "name": "Dionicio Diaz Adames",
+    "initials": "DDA",
+    "image": "https://avatars1.githubusercontent.com/u/26011982?s=460&v=4",
+    "summary": "FrontEnd Developer and Sometimes Gamer, always learning and excited about tech.",
+    "skills": "JavaScript, VueJS, ReactJS, React Native, Oracle SQL, Scrum",
+    "linkedin": "https://www.linkedin.com/in/dioniciodiaz1/",
+    "github": "https://github.com/djlocoja",
+    "twitter": "https://twitter.com/dioniciodiaz1"
   },
   {
     "name": "Jesus M. Gilbert Castro",
