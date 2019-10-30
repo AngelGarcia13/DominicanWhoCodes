@@ -22,9 +22,12 @@
     "name": "Luis Pujols",
     "initials": "LP",
     "image": "data/devs-pics/luis-pujols.png",
-    "summary": "Mobile Developer using Xamarin all the way up.",
+    "summary": "Software Engineer passionate about Mobile Development and is a Xamarin Lover.",
     "skills": "Xamarin,Android,iOS",
-    "linkedin": "https://www.linkedin.com/in/luis-pujols-12b2ba71/"
+    "linkedin": "https://www.linkedin.com/in/luis-pujols-12b2ba71/",
+    "github": "https://github.com/Pujolsluis",
+    "twitter": "https://twitter.com/pujolsluis1",
+    "webpage": "https://pujolsluis.com"
   },
   {
     "name": "Dionny Prensa",
