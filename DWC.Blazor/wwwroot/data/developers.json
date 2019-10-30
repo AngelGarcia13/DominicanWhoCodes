@@ -449,7 +449,7 @@
     "linkedin": "https://www.linkedin.com/in/jeasoft/",
     "github": "https://github.com/jeasoft",
     "twitter": "https://twitter.com/jeasoft"
-  } ,
+  },
   {
     "name": "Juan Carlos Ozoria",
     "initials": "JCO",
@@ -461,15 +461,6 @@
     "twitter": "https://twitter.com/jcozoria"
   },
   {
-    "name": "Sebastian Perez Martinez",
-    "initials": "SPM",
-    "image": "https://avatars2.githubusercontent.com/u/26904782?s=460&v=4",
-    "summary": "Mid Full Stack Mobile Developer oriented to Serverless Architecture",
-    "skills": "React,React Native,koa,Express,mongoDb,MySql,Styled Components,Software Architecture",
-    "linkedin": "https://www.linkedin.com/in/sebastian-perez-martinez-9a4492115/",
-    "github": "https://github.com/sperezm97"
-  },
-  {
     "name": "Dionicio Diaz Adames",
     "initials": "DDA",
     "image": "https://avatars1.githubusercontent.com/u/26011982?s=460&v=4",
@@ -478,5 +469,15 @@
     "linkedin": "https://www.linkedin.com/in/dioniciodiaz1/",
     "github": "https://github.com/djlocoja",
     "twitter": "https://twitter.com/dioniciodiaz1"
+  },
+  {
+    "name": "Jesus M. Gilbert Castro",
+    "initials": "JMGC",
+    "image":  "data/devs-pics/jgilbertcastro.jpg",
+    "summary": "Full Stack Developer: Web-Mobile-VideoGames.",
+    "skills":  "C#,VUE,REACT,GODOT,UNITY,NO/SQL",
+    "linkedin": "https://www.linkedin.com/in/jesus-manuel-gilbert-castro-7bb89625/",
+    "github": "https://github.com/jgilbertcastro",
+    "twitter": "https://twitter.com/jmgilbertc"
   }
 ]
