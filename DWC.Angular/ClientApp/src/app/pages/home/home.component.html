@@ -1,0 +1,16 @@
+<app-nav-menu></app-nav-menu>
+
+<div class="container">
+    <app-header-summary></app-header-summary>
+
+    <div class="row">
+        <p *ngIf="developers.length == 0"><em>Loading devs info...</em></p>
+        <div *ngFor="let developer of developers" class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <app-profile-card [developer]="developer"></app-profile-card>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <app-footer></app-footer>
+</div>
