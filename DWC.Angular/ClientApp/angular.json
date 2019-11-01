@@ -26,7 +26,10 @@
               "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -73,7 +76,9 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": ["styles.css"],
-            "scripts": [],
+            "scripts": [
+              "node"
+            ],
             "assets": ["src/assets"]
           }
         },
