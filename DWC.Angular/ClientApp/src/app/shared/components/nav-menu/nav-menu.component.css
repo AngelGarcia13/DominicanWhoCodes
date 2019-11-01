@@ -1,0 +1,8 @@
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active {
+  outline: none;
+  box-shadow: none;
+  border-color: transparent !important;
+  background-color: transparent !important;
+}

@@ -1,0 +1,27 @@
+<div class="card border-0 mb-3">
+  <div class="h-100"><img class="card-img-top" [src]="developer.image" alt="Card image cap"></div>
+  <div class="card-body p-3">
+    <div class="d-flex align-items-center info-space">
+      <div>
+        <span class="avatar avatar-sm rounded-circle bg-dark text-white">{{developer.initials}}</span>
+      </div>
+      <div class="pl-3"><span class="h6 text-sm mb-0">{{developer.name}}</span></div>
+    </div>
+    <section id="info-skills">
+      <div class="info-space">
+        <span *ngFor="let skill of developer.skills" class="badge badge-dark badge-pill">{{skill}}</span>
+      </div>
+    </section>
+    <div class="description-space">
+      <p class="text-muted text-monospace ">
+        <small>{{developer.summary}}</small>
+      </p>
+    </div>
+    <div class="social-networks">
+      <a *ngIf="developer.webpage" [href]="developer.webpage" target="_blank" class="text-dark"><i class="fas fa-globe-americas"></i></a>
+      <a *ngIf="developer.linkedin" [href]="developer.linkedin" target="_blank" class="text-dark"><i class="fab fa-linkedin"></i></a>
+      <a *ngIf="developer.twitter" [href]="developer.twitter" target="_blank" class="text-dark"><i class="fab fa-twitter"></i></a>
+      <a *ngIf="developer.github" [href]="developer.github" target="_blank" class="text-dark"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+</div>
