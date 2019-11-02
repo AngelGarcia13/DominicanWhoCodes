@@ -6,8 +6,9 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './pages/home/home.component';
-import { PagesModule } from './pages/pages.module';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
+import { LayoutModule } from './layout/layout.module';
+import { PagesModule } from './pages/pages.module';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { NotFoundComponent } from './pages/not-found/not-found.component';
     HttpClientModule,
     FormsModule,
     PagesModule,
+    LayoutModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
       { path: '404', component: NotFoundComponent },
