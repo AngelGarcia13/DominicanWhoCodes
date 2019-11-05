@@ -479,7 +479,8 @@
     "linkedin": "https://www.linkedin.com/in/jesus-guerrero-alvarez-911844145/",
     "github": "https://github.com/jesusantguerrero",
     "twitter": "hhttps://twitter.com/JesusntGuerrero"
-  },{
+  },
+  {
     "name": "Jesus M. Gilbert Castro",
     "initials": "JMGC",
     "image":  "data/devs-pics/jgilbertcastro.jpg",
@@ -488,5 +489,15 @@
     "linkedin": "https://www.linkedin.com/in/jesus-manuel-gilbert-castro-7bb89625/",
     "github": "https://github.com/jgilbertcastro",
     "twitter": "https://twitter.com/jmgilbertc"
+  },
+  {
+    "name": "Sinver Aguilo",
+    "initials": "SA",
+    "image": "https://avatars1.githubusercontent.com/u/10409334?s=460&v=4",
+    "summary": "Fullstask Js Dev, Php Backend dev, Go Dev, RoR Dev",
+    "skills": "VueJS, Ionic, Scrum, Angular, React, Go, Php, Laravel, Electron, Node.js",
+    "linkedin": "https://www.linkedin.com/in/sinver-vladimir-aguilo-flores-818623b2/",
+    "github": "https://github.com/savaf",
+    "twitter": "https://twitter.com/savafjs"
   }
 ]
