@@ -471,6 +471,15 @@
     "twitter": "https://twitter.com/dioniciodiaz1"
   },
   {
+    "name": "Jesus Guerrero",
+    "initials": "JG",
+    "image": "https://avatars1.githubusercontent.com/u/17421742?s=460&v=4",
+    "summary": "Web Developer. I love to learn new things, share knowledge, create and running.",
+    "skills": "JavaScript, VueJS, PHP, Node",
+    "linkedin": "https://www.linkedin.com/in/jesus-guerrero-alvarez-911844145/",
+    "github": "https://github.com/jesusantguerrero",
+    "twitter": "hhttps://twitter.com/JesusntGuerrero"
+  },{
     "name": "Jesus M. Gilbert Castro",
     "initials": "JMGC",
     "image":  "data/devs-pics/jgilbertcastro.jpg",
