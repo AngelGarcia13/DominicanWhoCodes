@@ -1,0 +1,51 @@
+body {
+    background-color: #f5f6fa;
+    color: #343a40;
+}
+
+/*
+  Pulse animation implementation within DWC By.
+  @juanchinovas
+*/
+
+#splash-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 35vh;
+}
+
+#pulse-animation {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  opacity: 0;
+  border: 1.5rem solid #444444;
+  border-radius: 50%;
+  animation: pulsate 1s ease-out;
+  animation-iteration-count: infinite;
+}
+
+span#app-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+@keyframes pulsate {
+  0% {
+    transform: scale(0.2);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+/*
+    End of pulsate animation section
+*/

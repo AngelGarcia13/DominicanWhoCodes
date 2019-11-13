@@ -1,0 +1,17 @@
+.em {
+  height: 1.5em;
+  width: 1.5em;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.em-flag-do {
+  background-image: url("https://twemoji.maxcdn.com/2/72x72/1f1e9-1f1f4.png");
+}
+
+.em-heart {
+  background-image: url("https://twemoji.maxcdn.com/2/72x72/2764.png");
+}
