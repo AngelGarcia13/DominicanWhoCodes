@@ -378,7 +378,7 @@
     "summary": "I'm just a simple boy that lover new technologies...",
     "skills": "Python, Javascript, Nodejs, Elixir, AWS",
     "linkedin": "https://www.linkedin.com/in/jos%C3%A9-miguel-segura-polanco-792298187/",
-    "github": "https://github.com/DarkCode01" 
+    "github": "https://github.com/DarkCode01"
   },
   {
     "name": "Francis Goris Payano",
@@ -499,5 +499,16 @@
     "linkedin": "https://www.linkedin.com/in/sinver-vladimir-aguilo-flores-818623b2/",
     "github": "https://github.com/savaf",
     "twitter": "https://twitter.com/savafjs"
+  },
+  {
+    "name": "Vyzaldy Sanchez",
+    "initials": "VZ",
+    "image": "data/devs-pics/vyzaldy-sanchez.jpg",
+    "summary": "Software Engineer, JavaScript/Elixir/Golang enthusiastic, Functional Programmer.",
+    "skills": "JavaScript, Node.js, Vue.js, React, Elixir, Go",
+    "linkedin": "https://www.linkedin.com/in/vyzaldysanchez/",
+    "github": "https://github.com/vyzaldysanchez",
+    "twitter": "https://twitter.com/Vyzaldy_andres",
+    "webpage": "https://vyzaldysanchez.github.io/"
   }
 ]
