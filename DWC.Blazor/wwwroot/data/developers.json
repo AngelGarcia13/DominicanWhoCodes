@@ -501,6 +501,16 @@
     "twitter": "https://twitter.com/savafjs"
   },
   {
+    "name": "Jadhiel Vélez",
+    "initials": "JV",
+    "image": "data/devs-pics/jadhiel-velez.jpg",
+    "summary": "Software Developer passionate about learning topics of new technologies and facing new challenges.",
+    "skills": ".NET Core, JavaScript, Vue.js, Node.js",
+    "linkedin": "https://www.linkedin.com/in/francisco-jadhiel-v%C3%A9lez-alejo-5a7518188/",
+    "github": "https://github.com/Jadhielv",
+    "twitter": "https://twitter.com/JadhielV"
+  },
+  {
     "name": "Vyzaldy Sanchez",
     "initials": "VZ",
     "image": "data/devs-pics/vyzaldy-sanchez.jpg",
