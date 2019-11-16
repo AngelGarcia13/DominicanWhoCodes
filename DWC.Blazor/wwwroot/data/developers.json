@@ -520,5 +520,16 @@
     "github": "https://github.com/vyzaldysanchez",
     "twitter": "https://twitter.com/Vyzaldy_andres",
     "webpage": "https://vyzaldysanchez.github.io/"
+  },
+  {
+    "name": "Luis Miguel Burdier",
+    "initials": "LB",
+    "image": "data/devs-pics/luis-burdier.jpg",
+    "summary": "Software Developer  who loves art/music",
+    "skills": "Python,JavaScript,.net Core C#",
+    "linkedin": "https://www.linkedin.com/in/luis-miguel-burdier-rodriguez-30b330125/",
+    "github": "https://github.com/burdier",
+    "twitter": "https://twitter.com/BurdierLuis",
+    "webpage": "https://burdierblog.netlify.com/"
   }
 ]
