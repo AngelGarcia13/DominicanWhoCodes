@@ -31,7 +31,7 @@
     protected override async Task OnInitializedAsync()
     {
         developers = await Http.GetJsonAsync<Developer[]>("data/developers.json");
-        developers = developers.OrderBy(d => d.Initials).ToArray();
+        developers = developers.Shuffle().ToArray();
     }
 
     public class Developer
