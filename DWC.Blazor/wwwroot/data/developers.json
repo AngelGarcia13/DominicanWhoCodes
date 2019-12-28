@@ -532,4 +532,13 @@
     "twitter": "https://twitter.com/BurdierLuis",
     "webpage": "https://burdierblog.netlify.com/"
   }
+  ,{
+    "name": "Roberto Minagorri",
+    "initials": "RM",
+    "image": "https://avatars0.githubusercontent.com/u/4685257?s=400&v=4",
+    "summary": "Passionate about technology",
+    "skills": "Node.JS,Java,JavaScript,Linux,C#",
+    "linkedin": "https://www.linkedin.com/in/rminagorri",
+    "github": "https://github.com/errrzarrr"
+  }
 ]
