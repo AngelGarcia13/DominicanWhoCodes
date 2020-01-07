@@ -531,8 +531,8 @@
     "github": "https://github.com/burdier",
     "twitter": "https://twitter.com/BurdierLuis",
     "webpage": "https://burdierblog.netlify.com/"
-  }
-  ,{
+  },
+  {
     "name": "Roberto Minagorri",
     "initials": "RM",
     "image": "https://avatars0.githubusercontent.com/u/4685257?s=400&v=4",
@@ -541,5 +541,16 @@
     "linkedin": "https://www.linkedin.com/in/rminagorri",
     "github": "https://github.com/errrzarrr",
     "telegram": "https://t.me/rminagorri"
+  },
+  {
+    "name": "Michael Montero",
+    "initials": "MM",
+    "image": "data/devs-pics/michael-montero.jpg",
+    "summary": "A christian software engineer who never know enough.",
+    "skills": "Typescript, NodeJS, NestJS, iONIC, Angular, Android, Docker",
+    "linkedin": "https://www.linkedin.com/in/michaelmonterojimenez/",
+    "github": "https://github.com/michaelmontero",
+    "twitter": "https://twitter.com/michaelitoh13",
+    "webpage": "http://michaelmontero.com"
   }
 ]
