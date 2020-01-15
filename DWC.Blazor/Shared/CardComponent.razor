@@ -29,6 +29,7 @@
             @if(Telegram != null) { <a href="@Telegram" target="_blank" class="text-dark"><i class="fas fa-paper-plane"></i></a> }
             @if(StackOverflow != null) { <a href="@StackOverflow" target="_blank" class="text-dark"><i class="fab fa-stack-overflow"></i></a> }
             @if(Medium != null) { <a href="@Medium" target="_blank" class="text-dark"><i class="fab fa-medium"></i></a> }
+            @if(YouTube != null) { <a href="@YouTube" target="_blank" class="text-dark"><i class="fab fa-youtube"></i></a> }
         </div>
     </div>
 </div>
@@ -59,4 +60,6 @@
     public string StackOverflow { get; set; }
     [Parameter]
     public string Medium { get; set; }
+    [Parameter]
+    public string YouTube { get; set; }
 }
