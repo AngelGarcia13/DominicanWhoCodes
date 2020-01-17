@@ -555,5 +555,17 @@
     "github": "https://github.com/michaelmontero",
     "twitter": "https://twitter.com/michaelitoh13",
     "webpage": "http://michaelmontero.com"
+  },
+  {
+    "name": "Felipe Gavilán",
+    "initials": "FG",
+    "image": "data/devs-pics/gavilanch.jpg",
+    "summary": "Full-Stack Software Engineer. Mainly focused in Web Developement with ASP.NET Core, Blazor, Angular",
+    "skills": "ASP.NET Core, Blazor, Angular, SQL Server, Salesforce",
+    "linkedin": "https://www.linkedin.com/in/gavilanch/",
+    "github": "https://github.com/gavilanch",
+    "stackoverflow": "https://stackoverflow.com/users/1108895/felipe-gavil%c3%a1n",
+    "webpage": "https://gavilan.blog/",
+    "YouTube": "https://www.youtube.com/user/gavilanchpro"
   }
 ]
