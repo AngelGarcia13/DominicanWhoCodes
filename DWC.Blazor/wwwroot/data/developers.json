@@ -199,11 +199,11 @@
     "name": "Enrique Ortiz",
     "initials": "EO",
     "image": "data/devs-pics/enrique-ortiz.jpg",
-    "summary": "Software Engineer that is passionate about metal music, conferences, and algorithms.",
-    "skills": "Python,Django,React,JavaScript,Node.js,CSS,Algorithms",
+    "summary": "I code. I read. I think.",
+    "skills": "Solidity, Javascript, Node, React",
     "linkedin": "https://www.linkedin.com/in/enriqueortizpi/",
     "github": "https://github.com/Evalir",
-    "twitter": "https://twitter.com/hievalir"
+    "twitter": "https://twitter.com/cryptoyizus"
   },
   {
     "name": "Enrique Capellán",
@@ -486,9 +486,9 @@
   {
     "name": "Jesus M. Gilbert Castro",
     "initials": "JMGC",
-    "image":  "data/devs-pics/jgilbertcastro.jpg",
+    "image": "data/devs-pics/jgilbertcastro.jpg",
     "summary": "Full Stack Developer: Web-Mobile-VideoGames.",
-    "skills":  "C#,VUE,REACT,GODOT,UNITY,NO/SQL",
+    "skills": "C#,VUE,REACT,GODOT,UNITY,NO/SQL",
     "linkedin": "https://www.linkedin.com/in/jesus-manuel-gilbert-castro-7bb89625/",
     "github": "https://github.com/jgilbertcastro",
     "twitter": "https://twitter.com/jmgilbertc"
