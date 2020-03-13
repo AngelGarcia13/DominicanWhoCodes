@@ -199,11 +199,11 @@
     "name": "Enrique Ortiz",
     "initials": "EO",
     "image": "data/devs-pics/enrique-ortiz.jpg",
-    "summary": "Software Engineer that is passionate about metal music, conferences, and algorithms.",
-    "skills": "Python,Django,React,JavaScript,Node.js,CSS,Algorithms",
+    "summary": "I code. I read. I think.",
+    "skills": "Solidity, Javascript, Node, React",
     "linkedin": "https://www.linkedin.com/in/enriqueortizpi/",
     "github": "https://github.com/Evalir",
-    "twitter": "https://twitter.com/hievalir"
+    "twitter": "https://twitter.com/cryptoyizus"
   },
   {
     "name": "Enrique Capellán",
@@ -281,7 +281,10 @@
     "summary": "C# ASP.Net Developer, I'd preferd back-end but I get along with the Front-End, I love help others with code and build new things with friends, I ♥ C#",
     "skills": "C#, Xamarin.Forms, MVC, .Net Core, ASP.Net, RESTFul APIs",
     "linkedin": "https://www.linkedin.com/in/steven-checo/",
-    "github": "https://github.com/sact1909"
+    "github": "https://github.com/sact1909",
+    "stackoverflow": "https://stackoverflow.com/users/11380884/steven-checo",
+    "telegram": "https://t.me/steven1909",
+    "YouTube": "https://www.youtube.com/user/broo9"
   },
   {
     "name": "Dany Santos",
@@ -378,7 +381,7 @@
     "summary": "I'm just a simple boy that lover new technologies...",
     "skills": "Python, Javascript, Nodejs, Elixir, AWS",
     "linkedin": "https://www.linkedin.com/in/jos%C3%A9-miguel-segura-polanco-792298187/",
-    "github": "https://github.com/DarkCode01" 
+    "github": "https://github.com/DarkCode01"
   },
   {
     "name": "Francis Goris Payano",
@@ -467,7 +470,7 @@
     "summary": "FrontEnd Developer and Sometimes Gamer, always learning and excited about tech.",
     "skills": "JavaScript, VueJS, ReactJS, React Native, Oracle SQL, Scrum",
     "linkedin": "https://www.linkedin.com/in/dioniciodiaz1/",
-    "github": "https://github.com/djlocoja",
+    "github": "https://github.com/dioniciodiaz",
     "twitter": "https://twitter.com/dioniciodiaz1"
   },
   {
@@ -483,9 +486,9 @@
   {
     "name": "Jesus M. Gilbert Castro",
     "initials": "JMGC",
-    "image":  "data/devs-pics/jgilbertcastro.jpg",
+    "image": "data/devs-pics/jgilbertcastro.jpg",
     "summary": "Full Stack Developer: Web-Mobile-VideoGames.",
-    "skills":  "C#,VUE,REACT,GODOT,UNITY,NO/SQL",
+    "skills": "C#,VUE,REACT,GODOT,UNITY,NO/SQL",
     "linkedin": "https://www.linkedin.com/in/jesus-manuel-gilbert-castro-7bb89625/",
     "github": "https://github.com/jgilbertcastro",
     "twitter": "https://twitter.com/jmgilbertc"
@@ -509,5 +512,60 @@
     "linkedin": "https://www.linkedin.com/in/francisco-jadhiel-v%C3%A9lez-alejo-5a7518188/",
     "github": "https://github.com/Jadhielv",
     "twitter": "https://twitter.com/JadhielV"
+  },
+  {
+    "name": "Vyzaldy Sanchez",
+    "initials": "VZ",
+    "image": "data/devs-pics/vyzaldy-sanchez.jpg",
+    "summary": "Software Engineer, JavaScript/Elixir/Golang enthusiastic, Functional Programmer.",
+    "skills": "JavaScript, Node.js, Vue.js, React, Elixir, Go",
+    "linkedin": "https://www.linkedin.com/in/vyzaldysanchez/",
+    "github": "https://github.com/vyzaldysanchez",
+    "twitter": "https://twitter.com/Vyzaldy_andres",
+    "webpage": "https://vyzaldysanchez.github.io/"
+  },
+  {
+    "name": "Luis Miguel Burdier",
+    "initials": "LB",
+    "image": "data/devs-pics/luis-burdier.jpg",
+    "summary": "Software Developer  who loves art/music",
+    "skills": "Python,JavaScript,.net Core C#",
+    "linkedin": "https://www.linkedin.com/in/luis-miguel-burdier-rodriguez-30b330125/",
+    "github": "https://github.com/burdier",
+    "twitter": "https://twitter.com/BurdierLuis",
+    "webpage": "https://burdierblog.netlify.com/"
+  },
+  {
+    "name": "Roberto Minagorri",
+    "initials": "RM",
+    "image": "https://avatars0.githubusercontent.com/u/4685257?s=400&v=4",
+    "summary": "Passionate about technology",
+    "skills": "Node.JS,Java,JavaScript,Linux,C#",
+    "linkedin": "https://www.linkedin.com/in/rminagorri",
+    "github": "https://github.com/errrzarrr",
+    "telegram": "https://t.me/rminagorri"
+  },
+  {
+    "name": "Michael Montero",
+    "initials": "MM",
+    "image": "data/devs-pics/michael-montero.jpg",
+    "summary": "A christian software engineer who never know enough.",
+    "skills": "Typescript, NodeJS, NestJS, iONIC, Angular, Android, Docker",
+    "linkedin": "https://www.linkedin.com/in/michaelmonterojimenez/",
+    "github": "https://github.com/michaelmontero",
+    "twitter": "https://twitter.com/michaelitoh13",
+    "webpage": "http://michaelmontero.com"
+  },
+  {
+    "name": "Felipe Gavilán",
+    "initials": "FG",
+    "image": "data/devs-pics/gavilanch.jpg",
+    "summary": "Full-Stack Software Engineer. Mainly focused in Web Developement with ASP.NET Core, Blazor, Angular",
+    "skills": "ASP.NET Core, Blazor, Angular, SQL Server, Salesforce",
+    "linkedin": "https://www.linkedin.com/in/gavilanch/",
+    "github": "https://github.com/gavilanch",
+    "stackoverflow": "https://stackoverflow.com/users/1108895/felipe-gavil%c3%a1n",
+    "webpage": "https://gavilan.blog/",
+    "YouTube": "https://www.youtube.com/user/gavilanchpro"
   }
 ]

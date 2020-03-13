@@ -19,7 +19,12 @@
                     Webpage="@developer.Webpage"
                     LinkedIn="@developer.LinkedIn"
                     Twitter="@developer.Twitter"
-                    Github="@developer.Github"/>
+                    Github="@developer.Github" 
+                    Telegram="@developer.Telegram"
+                    StackOverflow="@developer.StackOverflow"
+                    Medium="@developer.Medium"
+                    YouTube="@developer.YouTube"
+                    />
             </div>
         }
     }
@@ -31,7 +36,7 @@
     protected override async Task OnInitializedAsync()
     {
         developers = await Http.GetJsonAsync<Developer[]>("data/developers.json");
-        developers = developers.OrderBy(d => d.Initials).ToArray();
+        developers = developers.Shuffle().ToArray();
     }
 
     public class Developer
@@ -45,5 +50,9 @@
         public string LinkedIn { get; set; }
         public string Twitter { get; set; }
         public string Github { get; set; }
+        public string Telegram { get; set; }
+        public string StackOverflow { get; set; }
+        public string Medium { get; set; }
+        public string YouTube { get; set; }
     }
 }
