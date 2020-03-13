@@ -506,9 +506,9 @@
   {
     "name": "Jadhiel Vélez",
     "initials": "JV",
-    "image": "data/devs-pics/jadhiel-velez.JPG",
-    "summary": "Software Developer passionate about learning topics of new technologies and facing new challenges.",
-    "skills": ".NET Core, JavaScript, Vue.js, Node.js",
+    "image": "data/devs-pics/jadhiel-velez.png",
+    "summary": "Software Developer passionate about Web Development and Tech Enthusiast.",
+    "skills": "C#, JavaScript, Vue.js",
     "linkedin": "https://www.linkedin.com/in/francisco-jadhiel-v%C3%A9lez-alejo-5a7518188/",
     "github": "https://github.com/Jadhielv",
     "twitter": "https://twitter.com/JadhielV"
