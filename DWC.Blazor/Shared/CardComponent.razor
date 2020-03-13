@@ -26,6 +26,10 @@
             @if(LinkedIn != null) { <a href="@LinkedIn" target="_blank" class="text-dark"><i class="fab fa-linkedin"></i></a> }
             @if(Twitter != null) { <a href="@Twitter" target="_blank" class="text-dark"><i class="fab fa-twitter"></i></a> }
             @if(Github != null) { <a href="@Github" target="_blank" class="text-dark"><i class="fab fa-github"></i></a> }
+            @if(Telegram != null) { <a href="@Telegram" target="_blank" class="text-dark"><i class="fas fa-paper-plane"></i></a> }
+            @if(StackOverflow != null) { <a href="@StackOverflow" target="_blank" class="text-dark"><i class="fab fa-stack-overflow"></i></a> }
+            @if(Medium != null) { <a href="@Medium" target="_blank" class="text-dark"><i class="fab fa-medium"></i></a> }
+            @if(YouTube != null) { <a href="@YouTube" target="_blank" class="text-dark"><i class="fab fa-youtube"></i></a> }
         </div>
     </div>
 </div>
@@ -50,4 +54,12 @@
     public string Twitter { get; set; }
     [Parameter]
     public string Github { get; set; }
+    [Parameter]
+    public string Telegram { get; set; }
+    [Parameter]
+    public string StackOverflow { get; set; }
+    [Parameter]
+    public string Medium { get; set; }
+    [Parameter]
+    public string YouTube { get; set; }
 }
