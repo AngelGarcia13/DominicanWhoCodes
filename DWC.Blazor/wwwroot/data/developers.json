@@ -133,10 +133,10 @@
     {
         "name": "Lewandy Diloné Bonifacio",
         "initials": "LD",
-        "image": "data/devs-pics/lewandy-dilone.jpeg",
+        "image": "data/devs-pics/lewandy-dilone.jpg",
         "summary": "Passionate about computing science, Supporter of good practices and quality solutions",
-        "skills": "JavaScript (VueJS), C# (.NET CORE), PHP(Laravel)",
-        "linkedin": "https://www.linkedin.com/in/lewandy-dilone-b90849148",
+        "skills": "JavaScript, Vue, Laravel & NodeJs",
+        "linkedin": "https://www.linkedin.com/in/lewandy",
         "github": "https://github.com/lewandy"
     },
     {
