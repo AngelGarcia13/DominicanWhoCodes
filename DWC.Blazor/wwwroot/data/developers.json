@@ -575,5 +575,15 @@
         "skills": "ASP.NET Core, Blazor, Angular, SQL Server, Vue",
         "linkedin": "https://www.linkedin.com/in/junior-gervacio/",
         "github": "https://github.com/juniorfelixgb"
+    },
+    {
+        "name": "Nelson Minaya",
+        "initials": "NM",
+        "image": "data/devs-pics/nelson-minaya.jpg",
+        "summary": ".NET Backend developer with +5 years of experience, specialized in WebAPIs.",
+        "skills": "C#, ASP.NET Core, T-SQL, TypeScript, JavaScrpit",
+        "linkedin": "https://www.linkedin.com/in/nelson-minaya-b9a40170/",
+        "twitter":  "https://twitter.com/n_minaya",
+        "github": "https://github.com/nminaya"
     }
 ]
