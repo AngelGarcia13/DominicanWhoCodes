@@ -585,5 +585,15 @@
         "linkedin": "https://www.linkedin.com/in/nelson-minaya-b9a40170/",
         "twitter":  "https://twitter.com/n_minaya",
         "github": "https://github.com/nminaya"
+    },
+	    {
+        "name": "Dayern Gomez",
+        "initials": "DG",
+        "image": "data/devs-pics/D_G.jpg",
+        "summary": "System Engineer| Web Developer | Gamer",
+        "skills": ".NET Core,JavaScrpit, Angular, NodeJS",
+        "linkedin": "https://www.linkedin.com/in/dayern-gomez/",
+        "twitter":  "https://twitter.com/NeryadG",
+        "github": "https://github.com/neryad"
     }
 ]
