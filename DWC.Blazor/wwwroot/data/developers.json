@@ -595,5 +595,14 @@
         "linkedin": "https://www.linkedin.com/in/dayern-gomez/",
         "twitter":  "https://twitter.com/NeryadG",
         "github": "https://github.com/neryad"
+    },
+	    {
+        "name": "Brynat s. Badallaque",
+        "initials": "BB",
+        "image": "data/devs-pics/B_B.jpeg",
+        "summary": "Web Developer | BackEnd Developer",
+        "skills": ".NET Core, Sql",
+        "linkedin": "https://www.linkedin.com/in/bryant-s-baldallaque-72641894/",
+        "github": "https://github.com/bbaldallaque"
     }
 ]
