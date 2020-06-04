@@ -604,5 +604,16 @@
         "skills": ".NET Core, Sql",
         "linkedin": "https://www.linkedin.com/in/bryant-s-baldallaque-72641894/",
         "github": "https://github.com/bbaldallaque"
+    },
+        {
+        "name": "Wildin Mota",
+        "initials": "WM",
+        "image": "data/devs-pics/wildin-mota.jpeg",
+        "summary": "BackEnd Developer | DevOps Enthusiast",
+        "skills": "JavaScript, NodeJS, TypeScript, Python, AWS",
+        "linkedin": "https://www.linkedin.com/in/wildinmota/",
+        "github": "https://github.com/manokero",
+        "twitter": "https://twitter.com/wildinmota",
+        "webpage": "https://wildinmota.com/"
     }
 ]
