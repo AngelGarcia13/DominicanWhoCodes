@@ -1,4 +1,5 @@
-[{
+[  
+    {
         "name": "Angel Garcia",
         "initials": "AG",
         "image": "data/devs-pics/angel-garcia.jpg",
@@ -586,7 +587,7 @@
         "twitter":  "https://twitter.com/n_minaya",
         "github": "https://github.com/nminaya"
     },
-	    {
+	{
         "name": "Dayern Gomez",
         "initials": "DG",
         "image": "data/devs-pics/D_G.jpg",
@@ -596,7 +597,7 @@
         "twitter":  "https://twitter.com/NeryadG",
         "github": "https://github.com/neryad"
     },
-	    {
+	{
         "name": "Brynat s. Badallaque",
         "initials": "BB",
         "image": "data/devs-pics/B_B.jpeg",
@@ -605,7 +606,7 @@
         "linkedin": "https://www.linkedin.com/in/bryant-s-baldallaque-72641894/",
         "github": "https://github.com/bbaldallaque"
     },
-        {
+    {
         "name": "Wildin Mota",
         "initials": "WM",
         "image": "data/devs-pics/wildin-mota.jpeg",
@@ -615,5 +616,15 @@
         "github": "https://github.com/manokero",
         "twitter": "https://twitter.com/wildinmota",
         "webpage": "https://wildinmota.com/"
+    },
+    {
+        "name": "Genesis Alvarez",
+        "initials": "GA",
+        "image": "data/devs-pics/genesis-alvarez.jpeg",
+        "summary": "Cloud Engineer | Open Source DevOps | I'm always starving I'm not kidding",
+        "skills": "Docker, Terraform, GCP, Kong, Python, ELK",
+        "linkedin": "https://www.linkedin.com/in/genesis-lisbeth-alvarez-dominguez-0b0139153/",
+        "github": "https://github.com/UsernameAlvarez",
+        "twitter": "https://twitter.com/username_alvrz"
     }
 ]
