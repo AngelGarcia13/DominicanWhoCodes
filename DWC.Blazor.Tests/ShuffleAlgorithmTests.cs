@@ -45,7 +45,7 @@ namespace DWC.Blazor.Tests
             var result = source.Shuffle().ToList();
 
             // Assert
-            Assert.NotEqual<IEnumerable<int>>(source, result);
+            Assert.NotEqual<int>(source, result);
         }
     }
 }
