@@ -626,5 +626,14 @@
         "linkedin": "https://www.linkedin.com/in/genesis-lisbeth-alvarez-dominguez-0b0139153/",
         "github": "https://github.com/UsernameAlvarez",
         "twitter": "https://twitter.com/username_alvrz"
+    },
+    {
+        "name": "Ming Tsai",
+        "initials": "MT",
+        "image": "data/devs-pics/ming-tsai.jpg",
+        "summary": "DevOps | Backend developer | I'm trying to make a bot",
+        "skills": "C#, VueJs, CI, TS/Js",
+        "linkedin": "https://do.linkedin.com/in/ming-jia-tsai-huang-b34550126/",
+        "github": "https://github.com/ming-tsai"
     }
 ]
