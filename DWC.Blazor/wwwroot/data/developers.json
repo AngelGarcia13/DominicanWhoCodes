@@ -626,5 +626,16 @@
         "linkedin": "https://www.linkedin.com/in/genesis-lisbeth-alvarez-dominguez-0b0139153/",
         "github": "https://github.com/UsernameAlvarez",
         "twitter": "https://twitter.com/username_alvrz"
+    },
+    {
+        "name": "Francisco Hernández",
+        "initials": "FH",
+        "image": "data/devs-pics/francisco-hernandez.jpg",
+        "summary": "Senior Front-end Developer | Web Designer | Hardcore Gamer | I am passionate about building scalable and appealing software",
+        "skills": "JavaScript, VueJS, NodeJS, ORACLE SQL",
+        "linkedin": "https://www.linkedin.com/in/franciscoh017/",
+        "github": "https://github.com/franciscoh017",
+        "twitter": "https://twitter.com/franciscoh017",
+        "webpage": "https://franciscoh017.github.io/"
     }
 ]
