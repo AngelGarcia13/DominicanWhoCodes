@@ -628,6 +628,20 @@
         "twitter": "https://twitter.com/username_alvrz"
     },
     {
+        "name": "Ivan Verges",
+        "initials": "IV",
+        "image": "data/devs-pics/ivan-verges.jpg",
+        "summary": "AI Developer | Back-End Developer | Cuisine Enthusiast",
+        "skills": "C#, Java, Python, TensorFlow",
+        "github": "https://github.com/ivan-verges",
+        "linkedin": "https://www.linkedin.com/in/ivan-verges/",
+        "stackoverflow": "https://stackoverflow.com/users/3083830/ivan-verges",
+        "telegram": "https://t.me/MrVerges",
+        "twitter": "https://twitter.com/verges_c",
+        "webpage": "https://blog.ivanverges.com/",
+        "youtube": "https://www.youtube.com/c/IvanVergesCastro"
+    },
+    {
         "name": "Francisco Hernández",
         "initials": "FH",
         "image": "data/devs-pics/francisco-hernandez.jpg",
