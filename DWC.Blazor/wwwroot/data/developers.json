@@ -659,5 +659,15 @@
       "linkedin": "https://www.linkedin.com/in/ronelpanag/",
       "twitter": "https://twitter.com/ronelpanag_",
       "github": "https://github.com/ronelpanag"
+    },
+    {
+      "name": "Raffy A. Rodriguez M.",
+      "initials": "RAR",
+      "image": "data/devs-pics/Raffy_Rodriguez.png",
+      "summary": "A passionated web developer always looking for improvement.",
+      "skills": "JavaScript,TypeScript,CSS,Angular,Ionic",
+      "linkedin": "https://www.linkedin.com/in/raffy-a-rodriguez-400552110/",
+      "twitter": "https://twitter.com/RaffyRo50887118",
+      "github": "https://github.com/elraffy"
     }
 ]
