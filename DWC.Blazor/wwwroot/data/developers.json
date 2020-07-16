@@ -1,4 +1,4 @@
-[  
+[
     {
         "name": "Angel Garcia",
         "initials": "AG",
@@ -584,20 +584,20 @@
         "summary": ".NET Backend developer with +5 years of experience, specialized in WebAPIs.",
         "skills": "C#, ASP.NET Core, T-SQL, TypeScript, JavaScrpit",
         "linkedin": "https://www.linkedin.com/in/nelson-minaya-b9a40170/",
-        "twitter":  "https://twitter.com/n_minaya",
+        "twitter": "https://twitter.com/n_minaya",
         "github": "https://github.com/nminaya"
     },
-	{
+    {
         "name": "Dayern Gomez",
         "initials": "DG",
         "image": "data/devs-pics/D_G.jpg",
         "summary": "System Engineer| Web Developer | Gamer",
         "skills": ".NET Core,JavaScrpit, Angular, NodeJS",
         "linkedin": "https://www.linkedin.com/in/dayern-gomez/",
-        "twitter":  "https://twitter.com/NeryadG",
+        "twitter": "https://twitter.com/NeryadG",
         "github": "https://github.com/neryad"
     },
-	{
+    {
         "name": "Brynat s. Badallaque",
         "initials": "BB",
         "image": "data/devs-pics/B_B.jpeg",
@@ -640,5 +640,14 @@
         "twitter": "https://twitter.com/verges_c",
         "webpage": "https://blog.ivanverges.com/",
         "youtube": "https://www.youtube.com/c/IvanVergesCastro"
+    },
+    {
+        "name": "Ming Tsai",
+        "initials": "MT",
+        "image": "data/devs-pics/ming-tsai.jpg",
+        "summary": "DevOps | Backend developer | I'm trying to make a bot",
+        "skills": "C#, VueJs, CI, TS/Js",
+        "linkedin": "https://www.linkedin.com/in/ming-tsai",
+        "github": "https://github.com/ming-tsai"
     }
 ]
