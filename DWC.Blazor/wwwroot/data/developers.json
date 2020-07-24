@@ -651,23 +651,34 @@
         "github": "https://github.com/ming-tsai"
     },
     {
-      "name": "Ronel Pantaleón A.",
-      "initials": "RP",
-      "image": "data/devs-pics/ronel-pantaleon.jpg",
-      "summary": "Just a Web developer who is always open to learn and closed to be stuck.",
-      "skills": ".NET, Angular, TypeScript, JavaScript",
-      "linkedin": "https://www.linkedin.com/in/ronelpanag/",
-      "twitter": "https://twitter.com/ronelpanag_",
-      "github": "https://github.com/ronelpanag"
+        "name": "Ronel Pantaleón A.",
+        "initials": "RP",
+        "image": "data/devs-pics/ronel-pantaleon.jpg",
+        "summary": "Just a Web developer who is always open to learn and closed to be stuck.",
+        "skills": ".NET, Angular, TypeScript, JavaScript",
+        "linkedin": "https://www.linkedin.com/in/ronelpanag/",
+        "twitter": "https://twitter.com/ronelpanag_",
+        "github": "https://github.com/ronelpanag"
     },
     {
-      "name": "Raffy A. Rodriguez M.",
-      "initials": "RAR",
-      "image": "data/devs-pics/Raffy_Rodriguez.png",
-      "summary": "A passionated web developer always looking for improvement.",
-      "skills": "JavaScript,TypeScript,CSS,Angular,Ionic",
-      "linkedin": "https://www.linkedin.com/in/raffy-a-rodriguez-400552110/",
-      "twitter": "https://twitter.com/RaffyRo50887118",
-      "github": "https://github.com/elraffy"
+        "name": "Francisco Hernández",
+        "initials": "FH",
+        "image": "data/devs-pics/francisco-hernandez.jpg",
+        "summary": "Senior Front-end Developer | Web Designer | Hardcore Gamer | I am passionate about building scalable and appealing software",
+        "skills": "JavaScript, VueJS, NodeJS, ORACLE SQL",
+        "linkedin": "https://www.linkedin.com/in/franciscoh017/",
+        "github": "https://github.com/franciscoh017",
+        "twitter": "https://twitter.com/franciscoh017",
+        "webpage": "https://franciscoh017.github.io/"
+    },
+    {
+        "name": "Raffy A. Rodriguez M.",
+        "initials": "RAR",
+        "image": "data/devs-pics/Raffy_Rodriguez.png",
+        "summary": "A passionated web developer always looking for improvement.",
+        "skills": "JavaScript,TypeScript,CSS,Angular,Ionic",
+        "linkedin": "https://www.linkedin.com/in/raffy-a-rodriguez-400552110/",
+        "twitter": "https://twitter.com/RaffyRo50887118",
+        "github": "https://github.com/elraffy"
     }
 ]
