@@ -3,7 +3,7 @@
 
 Open source project inspired in http://indianswhodesign.in, made to expose all the developers from the Dominican Republic with their skills and contacts.
 
-The idea is to have this directoy where you could find the Dominicans devs info, this project is basically for me and @ManuHernandez (and everybody who want to collaborate) to learn/use some of the main JS front-end frameworks (Angular, [Vue](https://dominicanwhocodes.netlify.com) and React), play with some WebAssembly technologies like Blazor and also implement a Microservices Architecture.
+The idea is to have this directoy where you could find the Dominicans devs info, this project is basically for me and @ManuHernandez (and everybody who want to collaborate) to learn/use some of the main JS front-end frameworks (Angular, [Vue](https://dominicanwhocodes.netlify.com) and [React](https://festive-pike-7fadeb.netlify.app/)), play with some WebAssembly technologies like Blazor and also implement a Microservices Architecture.
 
 See the [Roadmap](Roadmap.md) for more technical details.
 #### Join our Slack.
@@ -21,3 +21,9 @@ https://join.slack.com/t/dominicanwhocodes/shared_invite/enQtNzU0MjQ2OTY1MDk1LTc
 🚀 Netlify: https://dominicanwhocodes.netlify.com
 
 💻 Repo: https://github.com/VueDominicana/DominicanWhoCodes
+
+### React Client App.
+
+🚀 Netlify: https://festive-pike-7fadeb.netlify.app/
+
+💻 Repo: https://github.com/React-Dominicana/dominicans-who-code-react
