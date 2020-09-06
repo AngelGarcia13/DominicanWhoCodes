@@ -690,5 +690,15 @@
 		"linkedin": "https://www.linkedin.com/in/rancell-tapia-brito/",
 		"twitter": "https://twitter.com/RancellTapia",
 		"github": "https://github.com/RancellTapia"
+	},
+	{
+		"name": "Daniel Feliz",
+		"initials": "DF",
+		"image": "data/devs-pics/daniel-feliz.jpg",
+		"summary": "Systems engineer. I love solving problems with code as much as playing video games.",
+		"skills": "React.js, React Native, Node.js, C#, Python",
+		"linkedin": "https://www.linkedin.com/in/dafeliz/",
+		"github": "https://github.com/dfeliz",
+		"webpage": "https://dfeliz.dev/"
 	}
 ]
