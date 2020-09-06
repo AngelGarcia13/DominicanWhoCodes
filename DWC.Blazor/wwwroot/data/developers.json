@@ -684,9 +684,9 @@
 	{
 		"name": "Rancell Tapia",
 		"initials": "RT",
-		"image": "data/devs-pics/rancell-tapia.png",
+		"image": "data/devs-pics/rancell-tapia.jpg",
 		"summary": "Software Developer | Mechatronics Engineer | Focus on problem solving | Triathlete | Marathoner",
-		"skills": "JavaScript, React JS, React Native, Python",
+		"skills": "JavaScript, React JS, React Native, Vue JS, Python",
 		"linkedin": "https://www.linkedin.com/in/rancell-tapia-brito/",
 		"twitter": "https://twitter.com/RancellTapia",
 		"github": "https://github.com/RancellTapia"
