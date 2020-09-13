@@ -690,5 +690,15 @@
 		"linkedin": "https://www.linkedin.com/in/rancell-tapia-brito/",
 		"twitter": "https://twitter.com/RancellTapia",
 		"github": "https://github.com/RancellTapia"
+	},
+	{
+		"name": "Nelson J. Veras",
+		"initials": "NV",
+		"image": "data/devs-pics/nelson-veras.jpg",
+		"summary": "Software Developer. Learning and doing all the time",
+		"skills": "React JS, Flutter, .NET, Docker, NodeJs",
+		"linkedin": "https://www.linkedin.com/in/nelson-jhonas-veras-amador-b9b896150/",
+		"twitter": "https://twitter.com/JhonasVeras724",
+		"github": "https://github.com/JhonasV"
 	}
 ]
