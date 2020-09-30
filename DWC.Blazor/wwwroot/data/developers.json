@@ -692,6 +692,16 @@
 		"github": "https://github.com/RancellTapia"
 	},
 	{
+		"name": "Frangel Rodriguez",
+		"initials": "FR",
+		"image": "data/devs-pics/frangel-rodriguez1-min.jpg",
+		"summary": "Software Developer | Full Stack developer",
+		"skills": "JavaScript, Vue js, Angular , java 8+ , Spring Framework, Spring Boot",
+		"linkedin": "https://www.linkedin.com/in/frangel-rodriguez-794973112/",
+		"twitter": "https://twitter.com/frangel03",
+		"github": "https://github.com/frangel02"
+  },
+	{
 		"name": "Nelson J. Veras",
 		"initials": "NV",
 		"image": "data/devs-pics/nelson-veras.jpg",
