@@ -684,9 +684,9 @@
 	{
 		"name": "Rancell Tapia",
 		"initials": "RT",
-		"image": "data/devs-pics/rancell-tapia.png",
+		"image": "data/devs-pics/rancell-tapia.jpg",
 		"summary": "Software Developer | Mechatronics Engineer | Focus on problem solving | Triathlete | Marathoner",
-		"skills": "JavaScript, React JS, React Native, Python",
+		"skills": "JavaScript, React JS, React Native, Vue JS, Python",
 		"linkedin": "https://www.linkedin.com/in/rancell-tapia-brito/",
 		"twitter": "https://twitter.com/RancellTapia",
 		"github": "https://github.com/RancellTapia"
@@ -700,5 +700,15 @@
 		"linkedin": "https://www.linkedin.com/in/frangel-rodriguez-794973112/",
 		"twitter": "https://twitter.com/frangel03",
 		"github": "https://github.com/frangel02"
+  },
+	{
+		"name": "Nelson J. Veras",
+		"initials": "NV",
+		"image": "data/devs-pics/nelson-veras.jpg",
+		"summary": "Software Developer. Learning and doing all the time",
+		"skills": "React JS, Flutter, .NET, Docker, NodeJs, Git, SQL Server/Transact-SQL",
+		"linkedin": "https://www.linkedin.com/in/nelson-jhonas-veras-amador-b9b896150/",
+		"twitter": "https://twitter.com/JhonasVeras724",
+		"github": "https://github.com/JhonasV"
 	}
 ]
