@@ -25,6 +25,7 @@ namespace DWC.Blazor.Tests
                 ("Telegram", "http://telegram.com"),
                 ("StackOverflow", "http://stackoverflow.com"),
                 ("Medium", "http://medium.com"),
+                ("Github", "http://github.com/nminaya"),
                 ("YouTube", "http://youtube.com")
             };
 
