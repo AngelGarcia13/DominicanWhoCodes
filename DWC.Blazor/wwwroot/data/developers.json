@@ -722,3 +722,13 @@
 		"github": "https://github.com/JhonasV"
 	}
 ]
+
+{
+		"name": "Daniel De Los Santos Lugo",
+		"initials": "DL",
+		"image": "data/devs-pics/daniel-lugo.jpg",
+		"summary": "DevOps Junior | Cyber Threat Intelligence Analyst | keep Fucosed! "
+		"skills": "Python, Docker, AWS & TSQL",
+		"linkedin": "https://www.linkedin.com/in/daniel-de-los-santos-lugo-/",
+		"github": "https://github.com/Kratos02"
+	},
