@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Alexandro Cueto",
+		"initials": "AC",
+		"image": "data/devs-pics/alexandro-cueto.jpg",
+		"summary": "Full Stack Developer",
+		"skills": "Ruby,Ruby On Rails,Flutter,React JS,PHP,Laravel",
+		"linkedin": "https://www.linkedin.com/in/cuetodev/",
+		"github": "https://github.com/iCueto",
+		"twitter": "https://twitter.com/iskander_crow"	
+	},
+	{
 		"name": "Angel Garcia",
 		"initials": "AG",
 		"image": "data/devs-pics/angel-garcia.jpg",
