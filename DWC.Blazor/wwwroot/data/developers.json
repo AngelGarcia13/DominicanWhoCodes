@@ -580,12 +580,15 @@
 	},
 	{
 		"name": "Junior Felix",
-		"initials": "JG",
+		"initials": "JF",
 		"image": "data/devs-pics/junior-felix.jpg",
 		"summary": "Software Engineer Jr. Mainly focused in Web Developement with ASP.NET Core, Blazor, Angular, Vue",
 		"skills": "ASP.NET Core, Blazor, Angular, SQL Server, Vue",
 		"linkedin": "https://www.linkedin.com/in/junior-gervacio/",
-		"github": "https://github.com/juniorfelixgb"
+		"github": "https://github.com/juniorfelixgb",
+		"stackoverflow": "https://stackoverflow.com/users/12859561/junior-felix",
+		"webpage": "... In Progress",
+		"YouTube": "https://www.youtube.com/channel/UCSfqW4rk8k25f88G3PiC5Gw?view_as=subscriber"
 	},
 	{
 		"name": "Nelson Minaya",
