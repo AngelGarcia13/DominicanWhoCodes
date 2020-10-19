@@ -37,10 +37,7 @@ namespace DWC.Blazor.Extensions
                 array[j] = buffer;
             }
 
-            for (int i = 0; i < length; i++)
-            {
-                yield return array[i];
-            }
+            return array;
         }
     }
 }
