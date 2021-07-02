@@ -416,7 +416,7 @@
 	{
 		"name": "Raul Montero",
 		"initials": "RM",
-		"image": "https://raulmonteroc.com/wp-content/uploads/2019/07/f5f2ebfc-bf63-4384-b583-ee4bebd2843f-e1563668563389.jpg",
+		"image": "data/devs-pics/raul-montero.jpg",
 		"summary": "Senior Mobile Developer",
 		"skills": "C#,Xamarin, Xamarin.Forms, Android, iOS, Appcenter",
 		"linkedin": "https://www.linkedin.com/in/raulmonteroc/",
