@@ -732,5 +732,16 @@
 		"linkedin": "https://www.linkedin.com/in/nelson-jhonas-veras-amador-b9b896150/",
 		"twitter": "https://twitter.com/JhonasVeras724",
 		"github": "https://github.com/JhonasV"
-	}
+	},
+	 {
+    "name": "Jeffrey Sanchez",
+    "initials": "JS",
+    "image": "https://avatars.githubusercontent.com/u/44595343",
+    "summary": "Senior Software Engineer | Anything can be programmable",
+    "skills": "C#, Go, Python, Javascript",
+    "linkedin": "https://www.linkedin.com/in/jegasape/",
+    "github": "https://github.com/jegasape",
+    "telegram": "https://t.me/jegasape",
+    "twitter": "https://twitter.com/jegasape"
+  }
 ]
