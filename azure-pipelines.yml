@@ -16,7 +16,7 @@ steps:
 - task: DotNetCoreInstaller@1
   displayName: 'Installing .NET Core SDK...'
   inputs:
-    version: 5.0.301
+    version: 6.0.100
 - script: dotnet build --configuration $(buildConfiguration) DWC.Blazor/DWC.Blazor.csproj
   displayName: 'dotnet build $(buildConfiguration)'
 - script: dotnet test --configuration $(buildConfiguration) DWC.Blazor.Tests/DWC.Blazor.Tests.csproj
