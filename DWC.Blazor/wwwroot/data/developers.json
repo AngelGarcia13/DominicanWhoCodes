@@ -350,7 +350,7 @@
    {
       "name":"Robert F. Marcelino Camilo",
       "initials":"RM",
-      "image":"https://www.robertmarcelino.com/images/profile-img.jpg",
+      "image":"data/devs-pics/robert-marcelino.jpg",
       "summary":"Code, cook and eat",
       "skills":"Ruby on Rails, Python, .NET, Javascript",
       "linkedin":"https://www.linkedin.com/in/robert-marcelino/",
