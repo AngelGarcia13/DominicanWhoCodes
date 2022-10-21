@@ -75,6 +75,10 @@
   font-size: x-large;
 }
 
+.social-networks a.social-networks-icon {
+  margin: 8px;
+}
+
 /*@juanchinovas*/
 
 #splash-screen {
