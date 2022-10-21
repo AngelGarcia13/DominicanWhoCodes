@@ -4,7 +4,7 @@
 
 * **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/AngelGarcia13/DominicanWhoCodes/issues).
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/new/choose). Be sure to include a **title and clear description**, as much relevant information as possible.
+* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/AngelGarcia13/DominicanWhoCodes/issues/new/choose). Be sure to include a **title and clear description**, and as much relevant information as possible.
 
 #### **Did you write a patch that fixes a bug?**
 
@@ -14,7 +14,7 @@
 
 #### **Did you fix whitespace, format code, or make a purely cosmetic patch?**
 
-Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of DominicanWhoCodes will generally be accepted.
+Changes that are cosmetic and do not add anything substantial to the stability, functionality, or testability of DominicanWhoCodes will generally be accepted.
 
 #### **Do you have questions about the source code?**
 
