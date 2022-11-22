@@ -10,6 +10,9 @@
   border-color: transparent !important;
   background-color: transparent !important;
 }
+.nav-item {
+  margin: 0 10px;
+}
 .card {
   border-radius: 0.5rem;
   box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, 0.03);
