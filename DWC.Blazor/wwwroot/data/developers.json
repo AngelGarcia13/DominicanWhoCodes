@@ -744,5 +744,15 @@
       "github":"https://github.com/jegasape",
       "telegram":"https://t.me/jegasape",
       "twitter":"https://twitter.com/jegasape"
+   },
+   {
+      "name":"Daniel De Los Santos Lugo",
+      "initials":"DSL",
+      "image":"https://avatars.githubusercontent.com/u/43867229?v=4",
+      "summary":"SRE, DevOps Enginner, Cloud Engineer. Available for contracts",
+      "skills":"Python, Terraform, Azure, Docker, Kubernetes, AWS",
+      "linkedin":"https://www.linkedin.com/in/danielsantoslgo/",
+      "github":"https://github.com/danielsantoslgo",
+      "twitter":"https://x.com/DeLosSantosLugo"
    }
 ]
