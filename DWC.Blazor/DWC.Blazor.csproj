@@ -13,6 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+
+    <PackageReference Include="Microsoft.NET.ILLink.Analyzers" Version="7.0.100-1.23401.1" />
+
+    <PackageReference Include="Microsoft.NET.ILLink.Tasks" Version="7.0.100-1.23401.1" />
     <Content Update="wwwroot\data\developers.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
