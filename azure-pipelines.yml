@@ -11,23 +11,47 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+  dotnetVersion: '8.0.119'
 
 steps:
 - task: UseDotNet@2
   displayName: 'Installing .NET Core SDK...'
   inputs:
-    version: 8.0.100
-- script: dotnet build --configuration $(buildConfiguration) DWC.Blazor/DWC.Blazor.csproj
-  displayName: 'dotnet build $(buildConfiguration)'
-- script: dotnet test --configuration $(buildConfiguration) DWC.Blazor.Tests/DWC.Blazor.Tests.csproj
-  displayName: 'dotnet test $(buildConfiguration)'
+    version: $(dotnetVersion)
+
+- task: Cache@2
+  displayName: 'Cache NuGet packages...'
+  inputs:
+    key: 'nuget | "$(Agent.OS)" | **/packages.lock.json,!**/bin/**,!**/obj/**'
+    path: '$(NUGET_PACKAGES)'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Restore NuGet packages...'
+  inputs:
+    command: 'restore'
+    projects: '**/*.csproj'
+
+- script: |
+    dotnet workload install wasm-tools
+  displayName: 'Install WebAssembly workload'
+
+- script: dotnet build --configuration $(buildConfiguration) --no-restore --verbosity normal DWC.Blazor/DWC.Blazor.csproj
+  displayName: 'Build $(buildConfiguration)'
+
+- script: dotnet test --configuration $(buildConfiguration) --no-build --logger trx DWC.Blazor.Tests/DWC.Blazor.Tests.csproj
+  displayName: 'Run tests $(buildConfiguration)'
+
 - task: DotNetCoreCLI@2
   displayName: 'Publishing App...'
   inputs:
     command: publish
     publishWebProjects: true
-    arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+    arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: false
 
 - task: PublishBuildArtifacts@1
-  displayName: 'Publishing Build Artifacts...'
+  displayName: 'Publishing Build Artifacts'
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+  inputs:
+    pathToPublish: '$(Build.ArtifactStagingDirectory)'
+    artifactName: 'drop'
