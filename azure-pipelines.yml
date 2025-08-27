@@ -14,15 +14,6 @@ steps:
   inputs:
     version: $(dotnetVersion)
 
-- task: Cache@2
-  displayName: 'Cache NuGet packages...'
-  inputs:
-    key: 'nuget | "$(Agent.OS)" | $(Build.SourcesDirectory)/**/*.csproj'
-    restoreKeys: |
-      nuget | "$(Agent.OS)"
-      nuget
-    path: $(Pipeline.Workspace)/.nuget/packages
-
 - task: DotNetCoreCLI@2
   displayName: 'Restore NuGet packages...'
   inputs:
