@@ -22,24 +22,34 @@ steps:
 - task: Cache@2
   displayName: 'Cache NuGet packages...'
   inputs:
-    key: 'nuget | "$(Agent.OS)" | **/packages.lock.json,!**/bin/**,!**/obj/**'
+    key: 'nuget | "$(Agent.OS)" | **/*.csproj'
+    restoreKeys: |
+      nuget | "$(Agent.OS)"
     path: '$(NUGET_PACKAGES)'
 
 - task: DotNetCoreCLI@2
   displayName: 'Restore NuGet packages...'
   inputs:
     command: 'restore'
-    projects: '**/*.csproj'
+    projects: '**/*.sln'
 
 - script: |
     dotnet workload install wasm-tools
   displayName: 'Install WebAssembly workload'
 
-- script: dotnet build --configuration $(buildConfiguration) --no-restore --verbosity normal DWC.Blazor/DWC.Blazor.csproj
+- task: DotNetCoreCLI@2
   displayName: 'Build $(buildConfiguration)'
+  inputs:
+    command: 'build'
+    projects: '**/*.sln'
+    arguments: '--configuration $(buildConfiguration) --no-restore --verbosity normal'
 
-- script: dotnet test --configuration $(buildConfiguration) --no-build --logger trx DWC.Blazor.Tests/DWC.Blazor.Tests.csproj
+- task: DotNetCoreCLI@2
   displayName: 'Run tests $(buildConfiguration)'
+  inputs:
+    command: 'test'
+    projects: '**/*Tests.csproj'
+    arguments: '--configuration $(buildConfiguration) --no-build --logger trx'
 
 - task: DotNetCoreCLI@2
   displayName: 'Publishing App...'
