@@ -1,33 +1,54 @@
-# ASP.NET Core
-# Build and test ASP.NET Core projects targeting .NET Core.
-# Add steps that run tests, create a NuGet package, deploy, and more:
-# https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
-
 trigger:
 - master
 
 pool:
-  vmImage: 'windows-2019'
+  vmImage: 'windows-2022'
 
 variables:
   buildConfiguration: 'Release'
+  dotnetVersion: '8.0.119'
 
 steps:
 - task: UseDotNet@2
   displayName: 'Installing .NET Core SDK...'
   inputs:
-    version: 8.0.100
-- script: dotnet build --configuration $(buildConfiguration) DWC.Blazor/DWC.Blazor.csproj
-  displayName: 'dotnet build $(buildConfiguration)'
-- script: dotnet test --configuration $(buildConfiguration) DWC.Blazor.Tests/DWC.Blazor.Tests.csproj
-  displayName: 'dotnet test $(buildConfiguration)'
+    version: $(dotnetVersion)
+
+- task: DotNetCoreCLI@2
+  displayName: 'Restore NuGet packages...'
+  inputs:
+    command: 'restore'
+    projects: '**/*.sln'
+
+- script: |
+    dotnet workload install wasm-tools
+  displayName: 'Install WebAssembly workload'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Build $(buildConfiguration)'
+  inputs:
+    command: 'build'
+    projects: '**/*.sln'
+    arguments: '--configuration $(buildConfiguration) --no-restore --verbosity normal'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Run tests $(buildConfiguration)'
+  inputs:
+    command: 'test'
+    projects: '**/*Tests.csproj'
+    arguments: '--configuration $(buildConfiguration) --no-build --logger trx'
+
 - task: DotNetCoreCLI@2
   displayName: 'Publishing App...'
   inputs:
     command: publish
     publishWebProjects: true
-    arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+    arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: false
 
 - task: PublishBuildArtifacts@1
-  displayName: 'Publishing Build Artifacts...'
+  displayName: 'Publishing Build Artifacts'
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+  inputs:
+    pathToPublish: '$(Build.ArtifactStagingDirectory)'
+    artifactName: 'drop'
