@@ -16,7 +16,7 @@
 
     <PackageReference Include="Microsoft.NET.ILLink.Analyzers" Version="7.0.100-1.23401.1" />
 
-    <PackageReference Include="Microsoft.NET.ILLink.Tasks" Version="8.0.19" />
+    <PackageReference Include="Microsoft.NET.ILLink.Tasks" Version="8.0.20" />
     <Content Update="wwwroot\data\developers.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
