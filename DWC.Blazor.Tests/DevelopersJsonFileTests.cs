@@ -12,7 +12,9 @@ namespace DWC.Blazor.Tests
         public void JsonFile_Should_DeserializeOk()
         {
             // Arrange
-            var jsonString = File.ReadAllText("wwwroot\\data\\developers.json");
+            var projectRoot = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName;
+            var jsonPath = Path.Combine(projectRoot, "DWC.Blazor", "wwwroot", "data", "developers.json");
+            var jsonString = File.ReadAllText(jsonPath);
 
             // Act
             var developers = JsonConvert.DeserializeObject<Developer[]>(jsonString);
@@ -24,9 +26,11 @@ namespace DWC.Blazor.Tests
 
         [Fact]
         public void JsonFile_SocialNetworkUrls_Should_HaveValidUrls()
-        {
+        {    
             // Arrange
-            var jsonString = File.ReadAllText("wwwroot\\data\\developers.json");
+            var projectRoot = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName;
+            var jsonPath = Path.Combine(projectRoot, "DWC.Blazor", "wwwroot", "data", "developers.json");
+            var jsonString = File.ReadAllText(jsonPath);
 
             // Act
             var developers = JsonConvert.DeserializeObject<Developer[]>(jsonString);
