@@ -23,5 +23,24 @@
     <script src="_framework/blazor.webassembly.js"></script>
     <script src="jquery/jquery.slim.min.js"></script>
     <script src="twitter-bootstrap/js/bootstrap.min.js"></script>
+    <script>
+        window.downloadFile = function (fileName, contentType, base64Content) {
+            const byteCharacters = atob(base64Content);
+            const byteNumbers = new Array(byteCharacters.length);
+            for (let i = 0; i < byteCharacters.length; i++) {
+                byteNumbers[i] = byteCharacters.charCodeAt(i);
+            }
+            const byteArray = new Uint8Array(byteNumbers);
+            const blob = new Blob([byteArray], { type: contentType });
+            const url = window.URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = fileName;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            window.URL.revokeObjectURL(url);
+        };
+    </script>
 </body>
 </html>

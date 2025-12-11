@@ -1,5 +1,7 @@
 ﻿@page "/"
 @inject HttpClient Http
+@inject IJSRuntime JSRuntime
+@inject DWC.Blazor.Services.CsvExportService CsvExportService
 @using DWC.Blazor.Extensions
 @using DWC.Blazor.Utils
 
@@ -52,17 +54,24 @@
                 </div>
             </div>
             
-            <!-- Results Counter and Clear Button -->
+            <!-- Results Counter and Action Buttons -->
             <div class="d-flex justify-content-between align-items-center">
                 <div class="text-muted">
                     <small>Showing @(filteredDevelopers?.Count() ?? 0) of @developers.Length developers</small>
                 </div>
-                @if (!string.IsNullOrWhiteSpace(searchQuery) || !string.IsNullOrWhiteSpace(selectedSkill))
-                {
-                    <button class="btn btn-sm btn-outline-secondary" @onclick="ClearFilters">
-                        Clear filters
+                <div>
+                    <button class="btn btn-sm btn-primary"
+                            @onclick="ExportToCsv"
+                            disabled="@(!filteredDevelopers?.Any() ?? true)">
+                        Export to CSV
                     </button>
-                }
+                    @if (!string.IsNullOrWhiteSpace(searchQuery) || !string.IsNullOrWhiteSpace(selectedSkill))
+                    {
+                        <button class="btn btn-sm btn-outline-secondary ms-2" @onclick="ClearFilters">
+                            Clear filters
+                        </button>
+                    }
+                </div>
             </div>
         </div>
 
@@ -206,6 +215,26 @@
         searchQuery = string.Empty;
         selectedSkill = string.Empty;
         ApplyFilters();
+    }
+
+    private async Task ExportToCsv()
+    {
+        if (filteredDevelopers == null || !filteredDevelopers.Any())
+        {
+            return;
+        }
+
+        try
+        {
+            var csvData = CsvExportService.ExportDevelopersToCsv(filteredDevelopers.ToList());
+            var fileName = $"dominican-developers-{DateTime.Now:yyyy-MM-dd}.csv";
+
+            await JSRuntime.InvokeVoidAsync("downloadFile", fileName, "text/csv", Convert.ToBase64String(csvData));
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error exporting to CSV: {ex.Message}");
+        }
     }
 
     public class Developer
