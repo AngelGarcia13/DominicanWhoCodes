@@ -1,5 +1,4 @@
 ﻿using Bunit;
-using Bunit.Rendering;
 using DWC.Blazor.Shared;
 using Xunit;
 
@@ -11,26 +10,23 @@ namespace DWC.Blazor.Tests
         public void SocialNetworks_NoLinkedin_Should_Not_DisplayLinkedinLink()
         {
             // Arrange
-            using var context = new TestContext();
-
-            var parameters = new ComponentParameter[]
-            {
-                ("Name", "Test Name"),
-                ("Initials", "TN"),
-                ("Image", "image.jpg"),
-                ("Summary", "Test Summary"),
-                ("Webpage", "http://mypage.com"),
-                ("Twitter", "http://twitter.com"),
-                ("Skills","C#, ASP.NET Core, T-SQL, TypeScript, JavaScrpit"),
-                ("Telegram", "http://telegram.com"),
-                ("StackOverflow", "http://stackoverflow.com"),
-                ("Medium", "http://medium.com"),
-                ("Github", "http://github.com/nminaya"),
-                ("YouTube", "http://youtube.com")
-            };
+            using var context = new BunitContext();
 
             // Act
-            var component = context.RenderComponent<CardComponent>(parameters);
+            var component = context.Render<CardComponent>(parameters => parameters
+                .Add(p => p.Name, "Test Name")
+                .Add(p => p.Initials, "TN")
+                .Add(p => p.Image, "image.jpg")
+                .Add(p => p.Summary, "Test Summary")
+                .Add(p => p.Webpage, "http://mypage.com")
+                .Add(p => p.Twitter, "http://twitter.com")
+                .Add(p => p.Skills, "C#, ASP.NET Core, T-SQL, TypeScript, JavaScrpit")
+                .Add(p => p.Telegram, "http://telegram.com")
+                .Add(p => p.StackOverflow, "http://stackoverflow.com")
+                .Add(p => p.Medium, "http://medium.com")
+                .Add(p => p.Github, "http://github.com/nminaya")
+                .Add(p => p.YouTube, "http://youtube.com")
+            );
 
             // Assert
             Assert.Throws<ElementNotFoundException>(() => component.Find("div .social-networks .fa-linkedin"));
@@ -40,27 +36,24 @@ namespace DWC.Blazor.Tests
         public void SocialNetworks_AllSocialNetworkFilled_Should_DisplaysAllSocilNetworks()
         {
             // Arrange
-            using var context = new TestContext();
-
-            var parameters = new ComponentParameter[]
-            {
-                ("Name", "Test Name"),
-                ("Initials", "TN"),
-                ("Image", "image.jpg"),
-                ("Summary", "Test Summary"),
-                ("Webpage", "http://mypage.com"),
-                ("Skills","C#, ASP.NET Core, T-SQL, TypeScript, JavaScrpit"),
-                ("Twitter", "http://twitter.com"),
-                ("Telegram", "http://telegram.com"),
-                ("StackOverflow", "http://stackoverflow.com"),
-                ("Medium", "http://medium.com"),
-                ("Github", "http://github.com"),
-                ("YouTube", "http://youtube.com"),
-                ("LinkedIn", "http://linkedin.com")
-            };
+            using var context = new BunitContext();
 
             // Act
-            var component = context.RenderComponent<CardComponent>(parameters);
+            var component = context.Render<CardComponent>(parameters => parameters
+                .Add(p => p.Name, "Test Name")
+                .Add(p => p.Initials, "TN")
+                .Add(p => p.Image, "image.jpg")
+                .Add(p => p.Summary, "Test Summary")
+                .Add(p => p.Webpage, "http://mypage.com")
+                .Add(p => p.Skills, "C#, ASP.NET Core, T-SQL, TypeScript, JavaScrpit")
+                .Add(p => p.Twitter, "http://twitter.com")
+                .Add(p => p.Telegram, "http://telegram.com")
+                .Add(p => p.StackOverflow, "http://stackoverflow.com")
+                .Add(p => p.Medium, "http://medium.com")
+                .Add(p => p.Github, "http://github.com")
+                .Add(p => p.YouTube, "http://youtube.com")
+                .Add(p => p.LinkedIn, "http://linkedin.com")
+            );
 
             // Assert
             var socialNetworkDiv = component.Find("div .social-networks");
