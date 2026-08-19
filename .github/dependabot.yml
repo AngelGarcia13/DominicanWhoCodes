@@ -4,3 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    ignore:
+      # Ignora cambios de versión mayor (major) en todos los paquetes NuGet
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
